@@ -1,0 +1,178 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    overflow-x: hidden;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    display: none;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2rem;
+}
+
+header p {
+    margin: 0;
+    font-size: 1.2rem;
+}
+
+#art-display {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    opacity: 1; /* Ensure it's visible on load */
+    transition: opacity 0.5s ease;
+}
+
+#gallery-view {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-top: 10px;
+    padding: 10px;
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+}
+
+#gallery-view img {
+    max-width: 100px; /* Max width for gallery images */
+    max-height: 100px; /* Max height for gallery images */
+    object-fit: contain;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+
+#gallery-view img:hover {
+    transform: scale(1.1);
+}
+
+.fade {
+    transition: opacity 0.5s ease-in-out;
+    opacity: 0;
+}
+
+#gallery-links {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#gallery-links a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #000;
+    font-size: 18px;
+}
+
+#gallery-links a:hover {
+    text-decoration: underline;
+}
+
+/* New styles for Prompt Magic Gallery */
+#prompt-magic-gallery {
+    display: none; /* Hide by default */
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    padding: 20px;
+    opacity: 1; /* Make visible by default */
+    transition: opacity 0.5s ease-in-out;
+}
+
+.prompt-magic-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    cursor: pointer;
+}
+
+.prompt-magic-item img {
+    max-width: 100%;
+    height: auto;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+}
+
+.prompt-magic-item img:hover {
+    transform: scale(1.05);
+}
+
+.prompt-magic-item p {
+    margin-top: 10px;
+    text-align: center;
+}
+
+#fullscreen-popup {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.9);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+}
+
+#fullscreen-popup.hidden {
+    display: none;
+}
+
+#popup-image {
+    max-width: 90%;
+    max-height: 90%;
+    object-fit: contain;
+}
+
+.close-popup {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    font-size: 30px;
+    color: white;
+    cursor: pointer;
+}
+
+.video-gallery {
+    min-height: 100vh;
+    background: #000;
+    overflow-y: scroll;
+    scroll-snap-type: y mandatory;
+    -webkit-overflow-scrolling: touch;
+}
+
+.video-gallery video {
+    display: block;
+    width: 100vw;
+    height: 100vh;
+    object-fit: contain;
+    background: #000;
+    margin: 0 auto;
+    scroll-snap-align: start;
+}
+
+.hidden {
+    display: none;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
