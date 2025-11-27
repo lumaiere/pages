@@ -128,7 +128,7 @@ If this helped you, drop a comment, share your funniest repo-bloat story, or fol
 
 ---
 
-# Art Prompt (Impressionism):
+# [Art Prompt (Impressionism):](https://lumaiere.com/?gallery=impressionist9)
 
 A shimmering riverside scene painted with soft, luminous strokes, capturing dappled sunlight dancing across rippling water. Clusters of foliage glow in gentle greens and yellows, broken into tiny, vibrant color notes that shimmer like mosaic reflections. A hazy sky melts into the horizon in pale lavender and warm peach, with delicate brushwork evoking the breezy serenity of a quiet afternoon along a peaceful shoreline. The entire composition radiates a lively, pointillist sparkle, blending atmosphere and light into a dreamy, harmonious landscape.
 
@@ -153,5 +153,3 @@ Pair the video with:
 Drop your questions, your disasters, your triumphs, or your “I accidentally committed an entire VM image” stories below. And hit follow for more adventures in art, tech, and occasionally responsible Git usage.
 
 
-
-        <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@davelumai" data-unique-id="davelumai" data-embed-type="creator" style="max-width: 780px; min-width: 288px;" > <section> <a target="_blank" href="https://www.tiktok.com/@davelumai?refer=creator_embed">@davelumai</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
