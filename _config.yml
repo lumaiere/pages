@@ -1,3 +1,6 @@
 # _config.yml
+# Disable Jekyll processing for static site
+plugins: []
+
 exclude:
   - blog
