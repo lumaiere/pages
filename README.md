@@ -15,16 +15,17 @@ To set up this project locally, follow these steps:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/lumaAIere/lumaAIere.git
-    cd lumaAIere
+    git clone https://github.com/lumaiere/pages.git
+    cd pages
     ```
 
 2. **Add your images**: Place your images in the project directory with filenames `art1.jpg` to `art100.jpg`.
 
 3. **Deploy to GitHub Pages**:
     - Ensure your repository is public.
-    - Go to your repository settings, scroll down to the "GitHub Pages" section.
-    - Select the `main` branch as the source and save.
+    - Go to your repository settings, scroll down to the "Pages" section.
+    - Under "Source", select **GitHub Actions** (not "Deploy from a branch").
+    - The site will automatically deploy on every push to the `main` branch via the included GitHub Actions workflow.
 
 ## Usage
 
@@ -32,11 +33,14 @@ Simply open `index.html` in a web browser or access the deployed site via GitHub
 
 ## Project Structure
 
-lumaAIere/
+pages/
 │
 ├── index.html # Main HTML file
 ├── styles.css # CSS file for styling
 ├── scripts.js # JavaScript file for interactivity
+├── .github/workflows/deploy.yml # GitHub Actions workflow for deployment
+├── CNAME # Custom domain configuration
+├── _config.yml # GitHub Pages configuration
 ├── art1.jpg # Sample artwork image
 ├── art2.jpg
 └── ... # More artwork images (up to art100.jpg)
