@@ -152,19 +152,14 @@ header p {
 .video-gallery {
     min-height: 100vh;
     background: #000;
-    overflow-y: scroll;
-    scroll-snap-type: y mandatory;
-    -webkit-overflow-scrolling: touch;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
 }
 
-.video-gallery video {
-    display: block;
-    width: 100vw;
-    height: 100vh;
-    object-fit: contain;
-    background: #000;
+.video-gallery .tiktok-embed {
     margin: 0 auto;
-    scroll-snap-align: start;
 }
 
 .hidden {

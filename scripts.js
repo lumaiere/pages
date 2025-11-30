@@ -320,65 +320,43 @@ document.addEventListener("DOMContentLoaded", function () {
     }
 
     function loadVideoClipGallery(galleryType) {
-        const maxClips = 100;
-        const clipFiles = [];
-        videoDir = galleryType;
-        
-        for (let i = 1; i <= maxClips; i++) {
-            clipFiles.push(`${videoDir}/clip${i}.mp4`);
-        }
-
         const videoGallery = document.getElementById('video-gallery');
         videoGallery.innerHTML = '';
 
-        let firstVideo = null;
-        let videoCount = 0;
+        // Insert TikTok embed
+        const tiktokEmbed = document.createElement('blockquote');
+        tiktokEmbed.className = 'tiktok-embed';
+        tiktokEmbed.setAttribute('cite', 'https://www.tiktok.com/@davelumai');
+        tiktokEmbed.setAttribute('data-unique-id', 'davelumai');
+        tiktokEmbed.setAttribute('data-embed-type', 'creator');
+        tiktokEmbed.style.maxWidth = '780px';
+        tiktokEmbed.style.minWidth = '288px';
+        
+        const section = document.createElement('section');
+        const link = document.createElement('a');
+        link.setAttribute('target', '_blank');
+        link.setAttribute('href', 'https://www.tiktok.com/@davelumai?refer=creator_embed');
+        link.textContent = '@davelumai';
+        section.appendChild(link);
+        tiktokEmbed.appendChild(section);
+        
+        videoGallery.appendChild(tiktokEmbed);
 
-        clipFiles.forEach(src => {
-            fetch(src, { method: 'HEAD' }).then(res => {
-                if (res.ok) {
-                    const video = document.createElement('video');
-                    video.src = src;
-                    video.autoplay = true;
-                    video.loop = true;
-                    video.muted = true;
-                    video.playsInline = true;
-                    video.setAttribute('controls', '');
-                    videoGallery.appendChild(video);
-                    if (!firstVideo) firstVideo = video;
-                    videoCount++;
-                }
-            }).catch(() => {});
-        });
+        // Load TikTok embed script if not already loaded
+        if (!document.querySelector('script[src="https://www.tiktok.com/embed.js"]')) {
+            const script = document.createElement('script');
+            script.async = true;
+            script.src = 'https://www.tiktok.com/embed.js';
+            document.body.appendChild(script);
+        }
 
         videoGallery.classList.remove('hidden');
         artDisplay.style.display = 'none';
         galleryView.style.display = 'none';
         promptMagicGallery.style.display = 'none';
 
-        // Scroll to top and ensure first video is visible after a short delay
+        // Scroll to top
         window.scrollTo(0, 0);
-        setTimeout(() => {
-            if (videoGallery.firstChild) {
-                videoGallery.firstChild.scrollIntoView({ behavior: 'auto' });
-            }
-            // Add looping scroll behavior
-            videoGallery.addEventListener('scroll', function () {
-                const videos = videoGallery.querySelectorAll('video');
-                if (videos.length === 0) return;
-
-                // If at the very top, jump to last video
-                if (videoGallery.scrollTop === 0) {
-                    videos[videos.length - 1].scrollIntoView({ behavior: 'auto' });
-                    return;
-                }
-
-                // If at the very bottom, jump to first video
-                if (videoGallery.scrollHeight - videoGallery.scrollTop === videoGallery.clientHeight) {
-                    videos[0].scrollIntoView({ behavior: 'auto' });
-                }
-            });
-        }, 500);
     }
 
 });
