@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Demos - LumAIere.com</title>
+    <link rel="stylesheet" href="../styles.css">
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-7VHSE7PX07"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-7VHSE7PX07');
+    </script>
+</head>
+<body>
+    <div class="content" style="text-align: center; padding: 40px 20px;">
+        <h1>Demos</h1>
+        <p>Interactive JavaScript demonstrations</p>
+        
+        <!-- Joke section -->
+        <div id="joke-section" style="margin-top: 40px;">
+            <h2>Chuck Norris Joke Generator</h2>
+            <p>Click the button to load a random joke from the Chuck Norris API.</p>
+            <button id="btn" style="padding: 10px 20px; font-size: 16px; cursor: pointer; margin-top: 20px;">Load Joke</button>
+            <div id="joke" style="margin-top: 30px; font-size: 18px; max-width: 600px; margin-left: auto; margin-right: auto; padding: 20px; background-color: rgba(255, 255, 255, 0.1); border-radius: 8px;"></div>
+        </div>
+
+        <div style="margin-top: 60px;">
+            <a href="../index.html" style="color: #fff; text-decoration: underline;">← Back to Gallery</a>
+        </div>
+    </div>
+
+    <!-- Common footer links (loaded from shared file) -->
+    <div id="gallery-links" style="margin-top: 40px; padding: 20px; text-align: center;"></div>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            async function loadJoke() {
+                const res = await fetch("https://api.chucknorris.io/jokes/random");
+                const data = await res.json();
+                
+                const el = document.getElementById("joke");
+                if (el) {
+                    el.textContent = data.value;
+                }
+            }
+
+            const btn = document.getElementById("btn");
+            if (btn) {
+                btn.addEventListener("click", loadJoke);
+            }
+
+            const footer = document.getElementById('gallery-links');
+            if (footer) {
+                fetch('../footer-links.html')
+                    .catch(() => fetch('/footer-links.html'))
+                    .then(res => res ? res.text() : '')
+                    .then(html => {
+                        if (html) {
+                            footer.innerHTML = html;
+                        } else {
+                            throw new Error('Empty footer response');
+                        }
+                    })
+                    .catch(err => {
+                        console.error('Failed to load gallery links', err);
+                        footer.innerHTML = '<a href="../games/index.html">Games</a> <a href="../demos/index.html">Demos</a>';
+                    });
+            }
+        });
+    </script>
+</body>
+</html>
+

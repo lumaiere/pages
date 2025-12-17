@@ -33,5 +33,31 @@
         <p>This game was started back with Grok a while back but it was too painful to continue. It has now been completed with GitHub Copilot.</p>
         <button onclick="location.href='guess-the-model/index.html'">Play Guess the AI Model</button>
     </div>
+
+    <!-- Common footer links (loaded from shared file) -->
+    <div id="gallery-links" style="margin-top: 40px; padding: 20px; text-align: center;"></div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const footer = document.getElementById('gallery-links');
+            if (!footer) return;
+
+            // Try relative first, then root; fall back to minimal links if both fail
+            fetch('../footer-links.html')
+                .catch(() => fetch('/footer-links.html'))
+                .then(res => res ? res.text() : '')
+                .then(html => {
+                    if (html) {
+                        footer.innerHTML = html;
+                    } else {
+                        throw new Error('Empty footer response');
+                    }
+                })
+                .catch(err => {
+                    console.error('Failed to load gallery links', err);
+                    footer.innerHTML = '<a href="../games/index.html">Games</a> <a href="../demos/index.html">Demos</a>';
+                });
+        });
+    </script>
 </body>
 </html>
