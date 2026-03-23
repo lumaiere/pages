@@ -15,7 +15,7 @@ destination_dir = Path.cwd()
 allowed_extensions = {".png", ".jpeg", ".jpg", ".webp"}
 
 # Files created/modified within last 24 hours
-cutoff = datetime.now() - timedelta(hours=24)
+cutoff = datetime.now() - timedelta(hours=48)
 
 if not downloads_dir.exists():
     print(f"Downloads folder not found: {downloads_dir}")
