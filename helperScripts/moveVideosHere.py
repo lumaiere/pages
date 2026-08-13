@@ -7,7 +7,7 @@ import sys
 
 downloads = Path.home() / "Downloads"
 destination = Path.cwd()
-cutoff = datetime.now() - timedelta(hours=248)
+cutoff = datetime.now() - timedelta(hours=72)
 
 if not downloads.exists():
     print(f"Downloads folder not found: {downloads}")
