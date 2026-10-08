@@ -302,7 +302,7 @@ document.addEventListener("DOMContentLoaded", function () {
     // --- End of gallery-related function definitions ---
 
     // --- Only keep the logic that chooses which gallery to show in the if/else block ---
-    if (galleryType.startsWith('video')) {
+    if (galleryType.startsWith('videos')) {
         loadVideoClipGallery(galleryType);
     } else if (galleryType === 'prompt-magic') {
         // Hide other galleries, show Prompt Magic gallery
