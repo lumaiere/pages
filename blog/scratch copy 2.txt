@@ -1,0 +1,68 @@
+**Context**
+
+- Can't use GPTs after Dec 11.  Need a secure plugin.
+
+**Objective**
+
+- Write a compelling Medium blog
+
+**Details**
+
+- topic: ChatGPT Plugins
+- tone: friendly, very humorous, light, conversational
+- length: blog sized
+- author: AI Persona Dave LumAI
+- author should NOT be included in the blog content (no intros or mention of Dave LumAI other than the Medium link)
+- Don't include the word Medium since this will likely be posted elsewhere too.
+- don't include any other data before or after the blog.  No intro sentence that isn't part of the blog that I have to remove before posting the blog.  I want to be able to cut and paste with no editing.
+- Do include a title but don't prefix it with Title:, just put the title in title font.
+- Do include links to any references
+- please check all links and make sure they work.  Give me the entire blog with only correct links.  I do not like 404 errors.
+- Make sure everything copies without things like: citeturn0search2
+- Don't repeat yourself.  If you have made a point once, don't bring it up a second time unless it is super important and then you better clarify why you are bringing it up again.
+- include an AI art prompt with the following characteristics:
+    - Label it "Art Prompt:"
+    - Don't reveal what went into creating the prompt.  None of these instructions should be mentioned.
+    - The art does not have to be related to this blog.
+    - Randomly pick between all the historic periods of art, with an 75% weighting towards impressionism.
+    - Randomly pick between all the famous artists of that period.
+    - Randomly pick between all the art of that artist.
+    - Give very precise descriptive instructions to recreate that piece of art without mentioning what it is or who the artist is but it is totally acceptable to describe with words like brush strokes like Monet, etc.
+    - Make sure the art prompt doesn't violate any content restriction policies.
+- Get people to follow me and to comment
+
+## Only do this if running on Grok
+
+- Ensure all markdown includes code blocks wrapped in triple backticks (```) for consistent formatting, especially for Python examples.
+- Provide the markdown as raw text within a single code block using triple backticks, allowing easy selection and copying with Ctrl+A then Ctrl+C (or Cmd+A then Cmd+C).
+
+**Questions (or variations thereof) that should form the body of the blog**
+ 
+- How can I secure my plugin so people using it can't read the proprietary instructions?
+- Where is the offical manual for ChatGPT plugins?
+- Any other interesting tidbits?
+
+
+git filter-branch -f --env-filter '
+CORRECT_NAME="Dave LumAI"
+CORRECT_EMAIL="dave@lumaiere.com"
+
+if [ "$GIT_COMMITTER_NAME" != "$CORRECT_NAME" ] || [ "$GIT_COMMITTER_EMAIL" != "$CORRECT_EMAIL" ]
+then
+    export GIT_COMMITTER_NAME="$CORRECT_NAME"
+    export GIT_COMMITTER_EMAIL="$CORRECT_EMAIL"
+fi
+if [ "$GIT_AUTHOR_NAME" != "$CORRECT_NAME" ] || [ "$GIT_AUTHOR_EMAIL" != "$CORRECT_EMAIL" ]
+then
+    export GIT_AUTHOR_NAME="$CORRECT_NAME"
+    export GIT_AUTHOR_EMAIL="$CORRECT_EMAIL"
+fi
+' --tag-name-filter cat -- --branches --tags
+
+
+git filter-branch --env-filter '
+if [ "$GIT_COMMITTER_EMAIL" != "dave@lumaiere.com" ]
+then
+    export GIT_COMMITTER_EMAIL="dave@lumaiere.com"
+    export GIT_AUTHOR_EMAIL="dave@lumaiere.com"
+fi' --tag-name-filter cat -- --branches --tags

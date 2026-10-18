@@ -1,0 +1,104 @@
+**Context**
+
+- When traveling for business and personal reasons, what is considered a business expense and what isn't?  The context is travelling for an s-corp board meeting, flying Tuesday and returning Sunday.  The board meeting is Thursday morning. A family event is Friday night.  We are also potentially looking at realestate which is a new area of business the s-corp is expanding into.  We don't own anything in the area yet.
+
+**Objective**
+
+- Write a compelling blog
+
+**Details**
+
+- topic: Travel and taxes
+- tone: friendly, humorous, light, conversational, and mildly educational
+- author: AI Persona Dave LumAI
+- author should NOT be included in the blog content (no intros or mention of Dave LumAI other than the Medium link)
+- don't include any other data before or after the blog.  No intro sentence that isn't part of the blog that I have to remove before posting the blog.  I want to be able to cut and paste with no editing.
+- Do include a title but don't prefix it with Title:, just put the title in title font.
+- Length: 10 minutes of reading
+- Do include links to any references
+- Don't repeat yourself.  If you have made a point once, don't bring it up a second time unless it is super important and then you better clarify why you are bringing it up again.
+- All art prompts and video prompts must be written entirely in English. Do not use French or any other language. Use clear, natural English phrasing suitable for image and video generation.
+- Don't duplicate any labels with a section title.
+- include an AI art prompt with the following characteristics:
+    - Label it "Art Prompt (genre):" - where genre is one or two words describing the genre or style of this art prompt
+    - Do not mention that this is a generated prompt or reference any instructions.
+    - The art should not relate to the blog or any specific theme but should resemble one of the great works as selected below.
+    - Randomly select (pick a number between 1 and 40,0000,0000) a style of art from the following genres where each genre represents a million sequentially:
+        Academic Art
+        Art Brut
+        Art Deco
+        Art Nouveau
+        Arts and Crafts (no more tapestries with birds and such)
+        Ashcan School
+        Byzantine Art
+        Color Field Painting
+        Contemporary Art
+        Digital Art
+        Earth Art / Land Art
+        Folk Art
+        Gothic Art
+        Graffiti Art
+        Hard-Edge Painting
+        Harlem Renaissance Art
+        Hudson River School
+        Hyperrealism
+        Installation Art
+        Kinetic Art
+        Lowbrow Art / Pop Surrealism
+        Magic Realism
+        Naive Art
+        Naturalism
+        New Media Art
+        Northern Renaissance
+        Outsider Art
+        Performance Art
+        Photorealism
+        Precisionism
+        Pre-Raphaelite Art
+        Regionalism
+        Social Realism
+        Street Art
+        Suprematism
+        Symbolism
+        Tachisme
+        Tonalism
+        Ukiyo-e
+        Video Art
+        Vorticism
+    - Within the selected genre, randomly select a famous artist known for their distinctive style.
+    - Then randomly select a specific artwork by that artist.
+    - Write a richly descriptive prompt that captures the visual style, color palette, composition, and mood of the piece without naming the artwork or artist.
+    - Use vivid adjectives and phrases (e.g., "gentle brush strokes reminiscent of Renoir", "moody lighting echoing Caravaggio").
+    - Ensure the prompt is compliant with content safety policies and suitable for all audiences.
+    - no more baroque prompts with people sitting around a table
+    - please no cubist prompt with a violin and a bottle, that one has been over used.    
+- include an AI video prompt with the following characteristics:
+    - Label it "Video Prompt:"
+    - Do not mention that this is a generated prompt or reference any instructions.
+    - Take the art prompt generated above and customize it to video, having catchy motion for platforms like TikTok (Don't include TikTok in the prompt and don't start with a slow pan)
+- include a couple song recommendations to go with the video prompt.
+- Get people to follow me and to comment
+- Give me only the final markdown with full titles, bolds, etc that I should post, with no labels or extra intro. I want to copy and paste it directly.
+- When giving me sample code inside the code block, use the correct markdown so the blog code block continues at the end of the example code block.
+- Always look at the project files in the project and make sure all content and songs are fresh and new (not already included in these files).
+- Absolutely make sure that the song recommendations are not already in songs.txt.
+- Don't put any section headings in the following code blocks:
+- In a separate source code block, give me the same art prompt
+- In a separate source code block, give me the same video prompt
+- In a separate source code block, give me the same video prompt with those two song suggestions at the end of the prompt separated by songs:
+- In a separate source code block, give me a title for that video generated by the video prompt
+- In addtion to the song suggestions in the blog article, in a separate source code block give me a copy of the new song suggestions in this format 
+It’s Quiet Uptown – Hamilton
+Ghostwriter - RJD2  
+- In a separate source code block give me 140 character max Story description (subtitle) that gets people to click on the article (use come on advertising where you end the sentence mid sentence with ... to get the person to click to see the rest of it)
+- In 5 separate source code blocks give me a tag to describe this blog article
+
+**Questions**
+ 
+- What are the best and worst airports in the world?
+- Are there any secret places in the airport that can make your wait more enjoyable?
+- Any great airport food?
+- What are the tips for keeping your electronics secure?
+- Any tips if your flight is delayed?  Any benefits you get, but only if you ask for them?
+- Any must see art?
+- Any other interesting tidbits?

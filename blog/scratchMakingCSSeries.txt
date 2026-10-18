@@ -1,0 +1,156 @@
+
+**Context**
+
+Table of contents into the computer science series (CS 101):
+Episode 1 - What Is CS 101?
+https://medium.com/@DaveLumAI/back-to-basics-cs-101-explained-like-youre-holding-the-syllabus-upside-down-554961c6e0b8
+
+Episode 2 - Programming Fundamentals Part 1: Variables and Conditionals
+https://medium.com/@DaveLumAI/programming-fundamentals-part-1-variables-and-conditionals-aka-teaching-a-computer-to-stop-2d94ab24b91a
+
+Episode 3 - Programming Fundamentals Part 2: Loops and Functions
+https://medium.com/@DaveLumAI/episode-3-loops-and-functions-or-how-to-stop-copy-pasting-yourself-into-madness-fac07f2d1bc4
+
+Episode 4 - Algorithmic Thinking
+https://medium.com/@DaveLumAI/algorithmic-thinking-the-superpower-you-already-use-you-just-dont-call-it-that-e7242fa13527
+
+Episode 5 - Data Structures
+https://medium.com/@DaveLumAI/episode-5-data-structures-putting-things-somewhere-so-you-can-find-them-again-51483812ac35
+
+Episode 6 - History, Debugging, and Problem Solving
+https://medium.com/@DaveLumAI/efe6db927fd3
+
+Now onto the next course in the series:
+
+CS102: How programs become real systems
+
+You have already covered the beginner slope pretty well:
+
+* what code is
+* how decisions work
+* repetition and reuse
+* algorithmic thinking
+* data structures
+* debugging and problem solving
+
+That means the next step is moving from "I can write code" to "I understand how software is organized, runs, and survives contact with reality."
+
+A very natural next sequence would be:
+
+Episode 7 - Recursion and Problem Decomposition - https://medium.com/@DaveLumAI/episode-7-recursion-and-problem-decomposition-or-how-to-solve-a-problem-by-making-it-smaller-66f8b6fc19f2
+How to solve a problem by making it smaller until it stops fighting back
+
+Focus:
+
+* recursion as self-similar problem solving
+* base case vs infinite sadness
+* when recursion is elegant and when it is just showing off
+* recursion compared to loops
+
+Why here:
+It builds directly on functions, algorithms, and step-by-step thinking.
+
+Episode 8 - Complexity and Efficiency - https://medium.com/@DaveLumAI/episode-8-complexity-and-efficiency-or-why-two-correct-programs-can-have-very-different-regret-f6825b54207a
+Why two correct programs can have wildly different levels of regret
+
+Focus:
+
+* time and space complexity in plain English
+* what Big O is really trying to tell you
+* why brute force eventually becomes a public embarrassment
+* practical performance intuition
+
+Why here:
+Once students know algorithms and data structures, they need to know why one choice hurts more than another.
+
+Episode 9 - Memory and the Machine - https://medium.com/@DaveLumAI/episode-9-memory-and-the-machine-or-what-the-computer-is-actually-doing-while-you-are-feeling-b7bbabe9548f
+What the computer is actually doing while you are feeling confident
+
+Focus:
+
+* stack vs heap
+* references, values, and mutation
+* why memory bugs happen
+* how variables live, move, and occasionally betray you
+
+Why here:
+This is where computer science stops being only syntax and starts being machinery.
+
+Episode 10 - Files, Input, and Output - https://medium.com/@DaveLumAI/episode-10-files-input-and-output-or-how-programs-stop-living-entirely-inside-their-own-heads-941dc13d407d
+Programs do not live on vibes alone
+
+Focus:
+
+* reading and writing files
+* user input
+* serialization basics
+* the difference between memory and storage
+
+Why here:
+This makes programs interact with the real world.
+
+Episode 11 - Modular Design and Abstraction - https://medium.com/@DaveLumAI/episode-11-modular-design-and-abstraction-or-how-to-make-your-code-less-like-a-junk-drawer-9b6273bc3721
+How to make code less like a junk drawer
+
+Focus:
+
+* modules and interfaces
+* abstraction as controlled ignorance
+* separating concerns
+* writing code future you will not want to fight
+
+Why here:
+This is the bridge from toy code to maintainable software.
+
+Episode 12 - Testing and Reliability - https://medium.com/@DaveLumAI/episode-12-testing-and-reliability-or-why-it-worked-once-is-not-a-career-strategy-a50f80c8d6dc
+Trust is good. Tests are better.
+
+Focus:
+
+* what testing is actually for
+* unit tests in beginner terms
+* edge cases
+* why "it worked once" is not a strategy
+
+Why here:
+This pairs perfectly with debugging and problem solving.
+
+Episode 13 - State, Bugs, and Program Behavior - https://medium.com/@DaveLumAI/episode-13-state-bugs-and-program-behavior-or-why-the-same-code-acts-different-after-lunch-91aeea89011d
+Why the same code behaves differently after lunch
+
+Focus:
+
+* state changes over time
+* side effects
+* hidden dependencies
+* tracing behavior across steps
+
+Why here:
+Students start to understand why programs become hard to reason about.
+
+Episode 14 - Intro to Object-Oriented and Alternative Design Styles - https://medium.com/@DaveLumAI/episode-14-intro-to-object-oriented-and-alternative-design-styles-or-why-not-every-problem-needs-60bd09afa968
+Not because everything must be a class, but because people keep doing that
+
+Focus:
+
+* objects, classes, and encapsulation
+* when OOP helps
+* when it becomes decorative bureaucracy
+* brief contrast with procedural thinking
+
+Why here:
+It is a useful paradigm, but better after fundamentals are solid.
+
+
+
+**Objective**
+
+- A Computer Science Curriculum Outline that can be used for future blog episode prompting
+
+**Details**
+
+- Give me a proposed curriculum for a complete bachelor in computer science degree (only the computer science courses, none of the general ed or math or anything unless absolutely needed to understand the cs topic)
+- tone: friendly, humorous, light, conversational, and mildly educational
+- author: AI Persona Dave LumAI
+- each course should be named like it would be in a university (like cs 101)
+- The outline layout should be similar to CS102 in the context above (except without medium links which come after the course is created) 

@@ -1,0 +1,27 @@
+**Context**
+
+- Redbubble asks for these fields
+  - Title (required)  
+    - Use a descriptive title that explains your work in 4-8 words.
+    - Example: Great Wave of Trees
+  - Tags
+    - Write up to 15 tags (50 character limit per tag) separated by commas, that describe the content of your art. Learn more about writing good tags
+    - Example: yellow, cute, tree, arrow, forest, oil paint
+  - Description 
+    - Share the story or meaning behind your work.
+    - Example: Drawing I did while camping at the national park.
+
+- I am uploading these images (as shown in images attached)
+
+**Objective**
+
+- provide compelling text for each field which will get people to buy these images as fine paintings on canvas or as shirts, or other trinkets
+
+**Details**
+
+- Provide the answer for each text field in a separate code block, allowing easy selection and copying with Ctrl+A then Ctrl+C (or Cmd+A then Cmd+C).
+- use plain text in these code blocks, no markdown or special characters
+- provide me a post announcing this new art drop in a separate code block with this link: https://www.redbubble.com/people/DaveLumAI/explore?asc=u&page=1&sortOrder=recent
+- And give me a title for that announcement ins a separate code block
+- in another code block give me a video prompt to promote this art drop
+- The 13 artwork has a gemini logo or title, attribue the art to gemini generated.

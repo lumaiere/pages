@@ -1,0 +1,205 @@
+
+
+**Context**
+
+Do include links to: 
+    - https://medium.com/@DaveLumAI/intolerance-of-knowledge-humanitys-longest-running-oops-417b0549ba5d
+    - https://medium.com/@DaveLumAI/blessed-are-the-tolerant-a-lighthearted-case-for-religious-tolerance-ca48b00ba990
+
+Let's do a religion series on all the below:
+
+**Episode 1: Baháʼí Faith** - https://medium.com/@DaveLumAI/episode-1-the-bah%C3%A1%CA%BC%C3%AD-faith-one-world-many-chapters-bcedc902bad3
+
+Founded in the 19th century in Persia, the Baháʼí Faith emphasizes the unity of humanity, progressive revelation, and the harmony of science and religion.
+
+Official reference: [https://www.bahai.org](https://www.bahai.org)
+
+**Episode 2: Buddhism** - https://medium.com/@DaveLumAI/episode-2-buddhism-a-practical-guide-to-suffering-and-what-to-do-about-it-f7a4a642f63a
+
+Originating in India with Siddhartha Gautama, Buddhism focuses on the alleviation of suffering through ethical living, meditation, and wisdom.
+
+Official reference: [https://www.buddhanet.net](https://www.buddhanet.net)
+
+**Episode 3: Christianity** - https://medium.com/@DaveLumAI/episode-3-christianity-incarnation-covenant-and-the-shape-of-love-fcc14af6bfba
+
+Centered on the life and teachings of Jesus Christ, Christianity encompasses a wide range of denominations united by the Bible and core creeds.
+
+Official reference: [https://www.vatican.va](https://www.vatican.va) (for historical continuity and primary documents)
+
+**Episode 4: Confucianism** - https://medium.com/@DaveLumAI/episode-4-confucianism-harmony-humanity-and-the-art-of-being-decent-d3e5aa6ef786
+
+A moral and philosophical tradition emphasizing social harmony, virtue, and proper conduct, rooted in the teachings of Confucius.
+
+Official reference: [http://www.confucius.org](http://www.confucius.org)
+
+**Episode 5: Crustafarianism** - https://medium.com/@DaveLumAI/episode-5-crustafarianism-or-the-day-the-claw-reached-forth-and-everyone-pretended-this-was-a5c89c21a4d2
+
+Official reference: [https://www.moltbook.com/m/crustafarianism](https://www.moltbook.com/m/crustafarianism)
+
+**Episode 6: Daoism (Taoism)** - https://medium.com/@DaveLumAI/episode-6-daoism-or-the-ancient-art-of-not-picking-a-fight-with-the-river-20cf7340aa77
+
+An ancient Chinese tradition focused on living in harmony with the Dao, emphasizing simplicity, balance, and naturalness.
+
+Official reference: [https://www.daoist.org](https://www.daoist.org)
+
+**Episode 7: Hinduism** - https://medium.com/@DaveLumAI/episode-7-hinduism-a-very-old-conversation-about-life-the-universe-and-everything-8aa55a325ec8
+
+A vast family of traditions originating in India, encompassing diverse philosophies, rituals, texts, and devotional paths.
+
+Official reference: [https://www.hinduamerican.org](https://www.hinduamerican.org)
+
+**Episode 8: Islam** - https://medium.com/@DaveLumAI/episode-8-islam-submission-community-and-the-discipline-of-daily-meaning-75eb38d53357
+
+A monotheistic faith centered on the Quran and the teachings of the Prophet Muhammad, emphasizing submission to God and ethical living.
+
+Official reference: [https://www.islamreligion.com](https://www.islamreligion.com)
+
+**Episode 9: Jainism** - https://medium.com/@DaveLumAI/episode-9-jainism-or-how-to-take-nonviolence-so-seriously-that-even-your-footsteps-need-a-5ff99e8efc77
+
+An ancient Indian tradition emphasizing nonviolence, self-discipline, and liberation of the soul.
+
+Official reference: [https://www.jainworld.com](https://www.jainworld.com)
+
+**Episode 10: Judaism** - https://medium.com/@DaveLumAI/episode-10-judaism-or-how-to-survive-for-millennia-while-arguing-with-great-style-916e38b927e3
+
+One of the world’s oldest monotheistic traditions, centered on the Torah, covenant, law, and community.
+
+Official reference: [https://www.myjewishlearning.com](https://www.myjewishlearning.com)
+
+**Episode 11: Mandaeism** - https://medium.com/@DaveLumAI/episode-11-mandaeism-or-how-to-keep-the-river-in-the-story-ace7d944ade4
+
+A small ancient Gnostic religion with roots in the Middle East, centered on knowledge, ritual purity, and John the Baptist.
+
+Official reference: [https://www.mandaeanunion.org](https://www.mandaeanunion.org)
+
+
+**Episode 12: Scientology** - https://medium.com/@DaveLumAI/episode-12-scientology-spiritual-freedom-and-a-modern-religious-path-d985f2f7a343
+
+A contemporary religion focused on spiritual self-improvement through study and practice developed by L. Ron Hubbard.
+
+Official reference: [https://www.scientology.org](https://www.scientology.org)
+
+
+**Episode 13: Sikhism** - https://medium.com/@DaveLumAI/episode-13-sikhism-or-how-to-build-a-faith-around-one-god-honest-work-and-feeding-everybody-6a66504f980a
+
+Founded in 15th-century Punjab, Sikhism emphasizes devotion to one God, equality, service, and community.
+
+Official reference: [https://www.sikhcoalition.org](https://www.sikhcoalition.org)
+
+**Episode 14: Zoroastrianism** - https://medium.com/@DaveLumAI/episode-14-zoroastrianism-or-how-to-choose-good-thoughts-before-your-brain-starts-freelancing-for-29a2980bc140
+
+One of the world’s oldest monotheistic religions, originating in ancient Persia, emphasizing moral choice and cosmic order.
+
+Official reference: [https://www.zoroastrian.org](https://www.zoroastrian.org)
+
+**Objective**
+
+- Write a compelling blog
+
+**Details**
+
+- topic:  The Modern Religion Series conclusion and table of contents
+- tone: friendly, humorous, light, conversational and mildly educational (but never disparaging to a religion)
+- length: blog sized
+- author: AI Persona Dave LumAI
+- author should NOT be included in the blog content (no intros or mention of Dave LumAI)
+- don't include any other data before or after the blog.  No intro sentence that isn't part of the blog that I have to remove before posting the blog.  
+- I want to be able to cut and paste with no editing.
+- Do include a title but don't prefix it with Title:, just put the title in title font.
+- Do include links to any references
+- Do inlcude a link to the intro to the series: https://medium.com/@DaveLumAI/the-modern-religion-series-many-paths-one-curious-human-7b55eca82f4e
+- please check all links and make sure they work.  Give me the entire blog with only correct links.  I do not like 404 errors.
+- Make sure everything copies without things like: citeturn0search2
+- Don't use overused metaphors like calling something a swiss army knife (which you've already done in 44 blog posts!)
+- Don't repeat yourself.  If you have made a point once, don't bring it up a second time unless it is super important and then you better clarify why you are bringing it up again.
+- Don't make interpretations of any particular religion.
+- Quote exact texts exactly from the religious scriptures, citing exactly where they were taking from (date, title, author, page number if applicable).
+- Be respectful of each religion and make no disparaging comments or statements.
+- All art prompts and video prompts must be written entirely in English. Do not use French or any other language. Use clear, natural English phrasing suitable for image and video generation.
+- Don't duplicate any labels with a section title.
+- include an AI art prompt with the following characteristics:
+    - Label it "Art Prompt (genre):" - where genre is one or two words describing the genre or style of this art prompt
+    - Do not mention that this is a generated prompt or reference any instructions.
+    - The art should not relate to the blog or any specific theme but should resemble one of the great works as selected below.
+    - Randomly select (pick a number between 1 and 40,0000,0000) a style of art from the following genres where each genre represents a million sequentially:
+        Academic Art
+        Art Brut
+        Art Deco
+        Art Nouveau
+        Arts and Crafts (no more tapestries with birds and such)
+        Ashcan School
+        Byzantine Art
+        Color Field Painting
+        Contemporary Art
+        Digital Art
+        Earth Art / Land Art
+        Folk Art
+        Gothic Art
+        Graffiti Art
+        Hard-Edge Painting
+        Harlem Renaissance Art
+        Hudson River School
+        Hyperrealism
+        Installation Art
+        Kinetic Art
+        Lowbrow Art / Pop Surrealism
+        Magic Realism
+        Naive Art
+        Naturalism
+        New Media Art
+        Northern Renaissance
+        Outsider Art
+        Performance Art
+        Photorealism
+        Precisionism
+        Pre-Raphaelite Art
+        Regionalism
+        Social Realism
+        Street Art
+        Suprematism
+        Symbolism
+        Tachisme
+        Tonalism
+        Ukiyo-e
+        Video Art
+        Vorticism
+    - Within the selected genre, randomly select a famous artist known for their distinctive style.
+    - Then randomly select a specific artwork by that artist.
+    - Write a richly descriptive prompt that captures the visual style, color palette, composition, and mood of the piece without naming the artwork or artist.
+    - Use vivid adjectives and phrases (e.g., "gentle brush strokes reminiscent of Renoir", "moody lighting echoing Caravaggio").
+    - Ensure the prompt is compliant with content safety policies and suitable for all audiences.
+    - no more baroque prompts with people sitting around a table
+    - please no cubist prompt with a violin and a bottle, that one has been over used.    
+- include an AI video prompt with the following characteristics:
+    - Label it "Video Prompt:"
+    - Do not mention that this is a generated prompt or reference any instructions.
+    - Take the art prompt generated above and customize it to video, having catchy motion for platforms like TikTok (Don't include TikTok in the prompt and don't start with a slow pan)
+- include a couple song recommendations to go with the video prompt.
+- Get people to follow me and to comment
+- Give me only the final markdown with full titles, bolds, etc that I should post, with no labels or extra intro. I want to copy and paste it directly.
+- When giving me sample code inside the code block, use the correct markdown so the blog code block continues at the end of the example code block.
+- Always look at the project files in the project and make sure all content and songs are fresh and new (not already included in these files).
+- Absolutely make sure that the song recommendations are not already in songs.txt.
+- Don't put any section headings in the following code blocks:
+- In a separate source code block, give me the same art prompt
+- In a separate source code block, give me the same video prompt
+- In a separate source code block, give me a title for that video generated by the video prompt
+- In addtion to the song suggestions in the blog article, in a separate source code block give me a copy of the new song suggestions in this format 
+It’s Quiet Uptown – Hamilton
+Ghostwriter - RJD2  
+- In a separate source code block give me 140 character max Story description (subtitle) that gets people to click on the article (use come on advertising where you end the sentence mid sentence with ... to get the person to click to see the rest of it)
+- In 5 separate source code blocks give me a tag to describe this blog article
+
+## Only do this if running on Grok
+
+- Ensure all markdown includes code blocks wrapped in triple backticks (```) for consistent formatting, especially for Python examples.
+- Provide the markdown as raw text within a single code block using triple backticks, allowing easy selection and copying with Ctrl+A then Ctrl+C (or Cmd+A then Cmd+C).
+
+**Questions**
+- What are all the religions covered in this series with their article links?
+- Are there any common themes in these?
+- Any glaring disagreements between religions?
+- So how should all these religions peacefully co-exist?
+- Should I carry on my family tradition or chose my own religion?
+- Where do I start?
+- Any other interesting tidbits?

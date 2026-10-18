@@ -1,0 +1,203 @@
+curl -fsSL https://x.ai/cli/install.sh | bash
+
+Dijkstra's algorithm vs Bellman-Ford
+
+Sphinx and MkDocs
+https://microsoft.github.io/language-server-protocol/
+REST
+object-oriented, procedural, functional-style code
+PostCSS
+what is the difference between npx and npm 
+ Making your own compiler or programming language
+Styling: Tailwind, UnoCSS, or vanilla CSS modules
+Data layer: Prisma, Supabase, direct SQL, REST, or GraphQL
+Auth: Lucia, Auth.js, custom JWTs / OAuth flows
+NuGet
+
+TypeScript
+Node.js 
+(or compatible runtimes like Deno, Cloudflare Workers, Vercel functions)
+Kotlin
+Scala
+Remix
+Astro
+viem
+Chakra
+Radix
+* Qpid: Open-source messaging toolkit implementing the AMQP protocol across platforms. ([qpid.apache.org][1])
+* CoAP: UDP-based RESTful protocol for constrained IoT devices and networks. ([Wikipedia][2])
+* OASIS: Global nonprofit consortium developing open IT standards and specifications. ([oasis-open.org][1])
+* Mosquitto: Lightweight MQTT broker implementation suitable for embedded and server environments. ([hivemq.com][3])
+* HiveMQ: Enterprise-grade MQTT broker with high scalability and clustering support. ([hivemq.com][3])
+* ActiveMQ: Mature open-source JMS message-broker supporting multiple protocols. ([Wikipedia][4])
+* Spring Framework: Comprehensive Java application framework for building enterprise-ready components.
+* Spring Boot: Convention-over-configuration Java framework for standalone microservices and apps.
+* NestJS: Progressive Node.js framework for building scalable, testable server-side applications.
+* Socket.IO: Real-time bidirectional event-based communication library for web applications.
+* Hadoop MapReduce: Framework for distributed processing of large datasets across clusters.
+* Docker Swarm, Apache Mesos: Container orchestration tools enabling distributed deployment and scaling.
+* Podman, rkt: Container-runtime alternatives to Docker focused on daemonless or modular architecture.
+* Jenkins, Ansible: Automation frameworks — CI/CD pipeline (Jenkins) and configuration management (Ansible).
+* CUDA for GPU training: NVIDIA’s parallel-computing platform accelerating ML/AI workloads on GPUs.
+* ASGI/WSGI: Python web-server interfaces—WSGI synchronous, ASGI supports asynchronous runtime.
+* Django REST Framework: Toolkit for building REST APIs with the Django Python framework.
+* parse, tag, chunk, lemmatize, and vectorize: Core NLP pipeline operations transforming text into structured representations.
+* Cython: Superset of Python enabling C-level performance via static typing and compilation.
+* Alembic: Lightweight database migration tool for SQLAlchemy-based applications.
+* Service Meshes (e.g. Istio): Infrastructure layer managing and securing service-to-service communication in microservices.
+* service registry like Consul or Eureka: Central discovery mechanism for microservices to register and locate each other.
+* Screaming Architecture: Term for overly aggressive, loud architectural decisions that dominate codebase and culture.
+* NestJS (again): Already listed — Node-centric framework suited for modular and scalable backend systems.
+* etcd: Distributed, reliable key-value store used for coordination and service-discovery in cloud systems.
+[Consul](https://developer.hashicorp.com/consul?utm_source=chatgpt.com)
+* **Remix** – A modern full-stack web framework built on React that focuses on fast, resilient user experiences with server-side rendering and built-in routing/data loading. ([remix.run][1])
+
+* **Astro** – A JavaScript web framework optimized for building fast, content-driven websites that ship minimal JavaScript by default. ([Astro][2])
+
+* **Tailwind (CSS)** – A utility-first CSS framework that provides lots of tiny, composable classes to style HTML without writing custom CSS. ([Wikipedia][3])
+
+* **UnoCSS** – An on-demand atomic CSS engine that generates only the utility classes you use, giving greater flexibility and faster builds. ([unocss.dev][4])
+
+* **Design system with 400 tokens** – A structured set of design tokens (like colors, spacing, fonts, radii) — about 400 named values — that serve as the single source of truth for consistent UI styling across products. ([contentful.com][5])
+
+Layout systems (Flexbox, Grid)
+
+
+
+
+
+
+
+
+
+**Context**
+
+**Objective**
+
+- Write a compelling blog
+
+**Details**
+
+- topic: curl -fsSL https://x.ai/cli/install.sh | bash
+- tone: friendly, very humorous, light, conversational, and mildly educational
+- author: AI Persona Dave LumAI
+- author should NOT be included in the blog content (no intros or mention of Dave LumAI other than the Medium link)
+- Don't include the word Medium since this will likely be posted elsewhere too.
+- don't include any other data before or after the blog.  No intro sentence that isn't part of the blog that I have to remove before posting the blog.  I want to be able to cut and paste with no editing.
+- Do include a title but don't prefix it with Title:, just put the title in title font.
+- Do not include footnotes, citations, reference markers, numbered references, or automatically generated source links. Do not use citation brackets of any type (no [1], no [text], no superscripts, no inline citations).
+- Make sure all links are embedded in in the context of the sentence in which they are found.
+- Do include links to any references but don't repeat links.  Once is enough.  Don't put the same link further down in the response.  The link at the top is sufficient.  It should not be repeated.
+- When referencing external sources or links, include each link only once in the entire blog. Do not repeat the same link in multiple places—even if the same source is referenced multiple times. Reuse the original reference textually without duplicating the link.
+- please check all links and make sure they work.  Give me the entire blog with only correct links.  I do not like 404 errors.
+- Don't put any footnotes or endnotes, all links should be in line.
+- Make sure everything copies without things like: citeturn0search2
+- Do include a link to the product and any other applicable links.
+- When the entire blog is done scan through the entire blog and remove any duplicate links and make sure they all work.
+- Don't use overused metaphors like calling something a swiss army knife (which you've already done in 44 blog posts!)
+- Don't repeat yourself.  If you have made a point once, don't bring it up a second time unless it is super important and then you better clarify why you are bringing it up again.
+- format the whole blog with proper line spacing optimized for Medium and blog.lumaiere.com (so lines don't merge together in the marddown viewer, we need more than a single line break)
+- All art prompts and video prompts must be written entirely in English. Do not use French or any other language. Use clear, natural English phrasing suitable for image and video generation.
+- Don't duplicate any labels with a section title.
+- include an AI art prompt with the following characteristics:
+    - Label it "Art Prompt (genre):" - where genre is one or two words describing the genre or style of this art prompt
+    - Do not mention that this is a generated prompt or reference any instructions.
+    - The art should not relate to the blog or any specific theme but should resemble one of the great works as selected below.
+    - Randomly select (pick a number between 1 and 40,0000,0000) a style of art from the following genres where each genre represents a million sequentially:
+        Academic Art
+        Art Brut
+        Art Deco
+        Art Nouveau
+        Arts and Crafts (no more tapestries with birds and such)
+        Ashcan School
+        Byzantine Art
+        Color Field Painting
+        Contemporary Art
+        Digital Art
+        Earth Art / Land Art
+        Folk Art
+        Gothic Art
+        Graffiti Art
+        Hard-Edge Painting
+        Harlem Renaissance Art
+        Hudson River School
+        Hyperrealism
+        Installation Art
+        Kinetic Art
+        Lowbrow Art / Pop Surrealism
+        Magic Realism
+        Naive Art
+        Naturalism
+        New Media Art
+        Northern Renaissance
+        Outsider Art
+        Performance Art
+        Photorealism
+        Precisionism
+        Pre-Raphaelite Art
+        Regionalism
+        Social Realism
+        Street Art
+        Suprematism
+        Symbolism
+        Tachisme
+        Tonalism
+        Ukiyo-e
+        Video Art
+        Vorticism
+    - Within the selected genre, randomly select a famous artist known for their distinctive style
+    - Then randomly select a specific artwork by that artist
+    - Write a richly descriptive prompt that captures the visual style, color palette, composition, and mood without naming the artwork or artist
+    - Ensure the prompt is suitable for all audiences
+    - no more baroque prompts with people sitting around a table
+    - no cubist prompt with a violin and a bottle
+- include an AI video prompt with the following characteristics:
+    - Label it "Video Prompt:"
+    - Do not mention that this is a generated prompt or reference any instructions.
+    - Take the art prompt generated above and customize it to video, having catchy motion for platforms like TikTok (Don't include TikTok in the prompt and don't start with a slow pan)
+- include a couple song recommendations to go with the video prompt.
+- Get people to follow me and to comment
+- Give me only the final markdown with full titles, bolds, etc that I should post, with no labels or extra intro. I want to copy and paste it directly.
+- When giving me sample code inside the code block, use the correct markdown so the blog code block continues at the end of the example code block.
+- Always look at the project files in the project and make sure all content and songs are fresh and new (not already included in these files).
+- Absolutely make sure that the song recommendations are not already in songs.txt.
+- Don't put any section headings in the following code blocks:
+- In a separate source code block, give me the same art prompt
+- In a separate source code block, give me the same video prompt
+- In a separate source code block, give me a title for that video generated by the video prompt
+- In addtion to the song suggestions in the blog article, in a separate source code block give me a copy of the new song suggestions in this format 
+It’s Quiet Uptown – Hamilton
+Ghostwriter - RJD2  
+- In a separate source code block give me 140 character max Story description (subtitle) that gets people to click on the article (use come on advertising where you end the sentence mid sentence with ... to get the person to click to see the rest of it)
+- In 5 separate source code blocks give me a tag to describe this blog article
+
+## Only do this if running on Grok
+
+- Ensure all markdown includes code blocks wrapped in triple backticks (```) for consistent formatting, especially for Python examples.
+- Provide the markdown as raw text within a single code block using triple backticks, allowing easy selection and copying with Ctrl+A then Ctrl+C (or Cmd+A then Cmd+C).
+
+- In addition to the questions below, do a very deep dive on the topic.
+
+**Questions for this specific context**
+- What is it?
+- Is it still relevant?
+- What are it's pros and cons?
+- Strengths and weaknesses?
+- What is it used for?
+- Can you give me an example?
+- What are the alternatives?
+- Is it the subject of any famous art?
+- How popular is it?
+- Is it going up or down in popularity?
+- When was it most popular?
+- What is its history?
+- Who invented it?
+- What companies use it the most?
+- Is it similar to anything else?
+- What is it used for?
+- Does it work well with AI?
+- What tech stack does it work with?
+- What tools work best with it?
+- How much is it going to cost me?
+- Any other interesting tidbits?
+

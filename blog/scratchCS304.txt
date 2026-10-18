@@ -1,0 +1,205 @@
+Course:
+CS304: Networks and Distributed Systems Foundations
+
+Course framing:
+
+Eventually one machine is not enough, one process is not enough, and one failure becomes everybody's problem.
+
+Course map:
+
+Episode 1 - How Computers Talk Over Networks
+A polite version of shouting packets into the void
+
+Focus:
+
+* basic networking concepts
+* addresses, routing, and protocols
+* client-server thinking
+* what the internet is actually doing
+
+Why here:
+Because connected software needs connected mental models.
+
+Episode 2 - Layers and Protocols
+Because one giant protocol for everything would be a nightmare in better branding
+
+Focus:
+
+* layered communication
+* responsibilities of different protocol levels
+* abstraction in networking
+* why layering helps humans reason about complexity
+
+Why here:
+Because networking is organized through boundaries, just like software.
+
+Episode 3 - Reliability Over Unreliable Systems
+How to build trust on top of dropped messages and bad timing
+
+Focus:
+
+* retries
+* ordering
+* timeouts
+* idempotency in plain English
+
+Why here:
+Because distributed systems begin where certainty ends.
+
+Episode 4 - Distributed State and Coordination
+The moment several machines need to agree about anything at all
+
+Focus:
+
+* shared state problems
+* coordination cost
+* replication
+* why consensus is famous for ruining everyone's afternoon
+
+Why here:
+Because scale introduces agreement problems, not just more copies.
+
+Episode 5 - Fault Tolerance and Resilience
+Designing systems that bend instead of collapse theatrically
+
+Focus:
+
+* redundancy
+* failure domains
+* graceful degradation
+* designing for partial failure
+
+Why here:
+Because distributed systems fail a little at a time, not all at once.
+
+Episode 6 - Cloud and Service Architecture Basics
+Computers in other buildings, billed monthly
+
+Focus:
+
+* services and infrastructure
+* elasticity and deployment
+* APIs between services
+* the practical shape of modern systems
+
+Why here:
+Because this is where networking and software architecture meet real-world deployment.
+
+**Course-specific guidance**
+
+- treat this as a real university course in a coherent bachelor-level computer science degree
+- preserve continuity with earlier CS101 and CS102 material
+- maximize education while keeping the voice warm, witty, readable, and slightly mischievous
+- teach both the underlying theory and the practical consequences in real software, systems, teams, or infrastructure
+- when the topic is abstract, anchor it with concrete examples
+- when the topic is practical, explain the theory beneath the practice
+- when tradeoffs exist, explain the tradeoffs instead of pretending one answer rules them all
+- when the topic has a history, include the history without turning the piece into a museum plaque
+- when the topic has modern relevance, say how it fits with current stacks, AI workflows, tooling, or cloud-era practice
+- if the topic is older, explain why it still matters today or where it has faded
+
+**Objective**
+
+- Write one full blog package for the exact course topic specified below
+- Infer the full episode identity, scope, and difficulty from the course map in this file
+- Balance theory and practical understanding so the reader learns both how the idea works and why it matters in real systems
+- Keep the voice funny, friendly, readable, and genuinely educational
+- Do a deep dive on the topic rather than a shallow overview in a funny hat
+
+**Details**
+
+- topic: Episode REPLACE_ONLY_THIS_VALUE as given above
+- tone: friendly, humorous, light, conversational, and mildly educational
+- author: AI Persona Dave LumAI
+- author should NOT be included in the blog content
+- Don't include the word Medium since this will likely be posted elsewhere too.
+- don't include any other data before or after the blog package
+- Do include a title but don't prefix it with Title:
+- Do not include footnotes, citations, reference markers, numbered references, or automatically generated source links
+- Make sure all links are embedded in the context of the sentence in which they are found
+- Do include links to any references but don't repeat links
+- Include the relevant continuity links from CS101 and CS102 and clearly identify which ones are from CS101 and which are from CS102
+- please check all links and make sure they work
+- Don't put any footnotes or endnotes, all links should be in line
+- Make sure everything copies cleanly with no tool artifacts
+- Don't use overused metaphors like calling something a swiss army knife
+- Don't repeat yourself
+- format the whole blog with proper line spacing optimized for Medium and blog.lumaiere.com
+- All art prompts and video prompts must be written entirely in English
+- Don't duplicate any labels with a section title
+- include an AI art prompt with the following characteristics:
+    - Label it "Art Prompt (genre):"
+    - The art should not directly depict the blog topic
+    - Randomly shuffle the candidate genres 10 times, then select one genre from:
+        Rococo (no more silk swing scenes)
+        Dadaism (no more scraps of paper)
+        Prehistoric Art (no more limestone caves with caveman art please)
+        Ancient Art (no more warriors and board games)
+    - Within the selected genre, randomly select a famous artist known for their distinctive style
+    - Then randomly select a specific artwork by that artist
+    - Write a richly descriptive prompt that captures the visual style, color palette, composition, and mood without naming the artwork or artist
+    - Ensure the prompt is suitable for all audiences
+    - no more baroque prompts with people sitting around a table
+    - no cubist prompt with a violin and a bottle
+- include an AI video prompt with the following characteristics:
+    - Label it "Video Prompt:"
+    - Base it on the art prompt above
+    - Make the motion catchy for short-form video platforms
+    - Don't start with a slow pan
+- include a couple song recommendations to go with the video prompt
+- Get people to follow me and to comment
+- Give me only the final markdown with full titles, bolds, etc that I should post, with no labels or extra intro
+- When giving sample code inside a code block, use correct markdown so the blog code block continues correctly afterward
+- Always look at the project files and keep content and song picks fresh and new
+- Absolutely make sure that the song recommendations are not already in songs.txt.
+- Don't put any section headings in the separate code blocks requested below
+- After the main blog article, also output:
+    - in a separate source code block, the same art prompt
+    - in a separate source code block, the same video prompt
+    - in a separate source code block, a title for that video
+    - in a separate source code block, a copy of the new song suggestions in this exact format:
+      It’s Quiet Uptown – Hamilton
+      Ghostwriter - RJD2
+    - in a separate source code block, a 140 character max story description that ends mid-thought with ...
+    - in 5 separate source code blocks, give one tag per block to describe this blog article
+
+**Educational Standards**
+
+- start with a strong, inviting opening
+- build from intuition first, then mechanism, then practical examples
+- include at least one concrete example and one more realistic real-world example
+- explain misconceptions and failure modes
+- connect the topic to previous course episodes where useful
+- connect the topic to later ideas where useful
+- explain tradeoffs honestly
+- simplify without lying
+- make the reader feel smarter by the end, not merely entertained
+- balance theory and practice throughout instead of putting all theory in one corner and all practical material in another
+
+**Continuity material you may cite inline once each where relevant**
+CS101 continuity links:
+- Episode 1 - What Is CS 101? - https://medium.com/@DaveLumAI/back-to-basics-cs-101-explained-like-youre-holding-the-syllabus-upside-down-554961c6e0b8
+- Episode 2 - Programming Fundamentals Part 1: Variables and Conditionals - https://medium.com/@DaveLumAI/programming-fundamentals-part-1-variables-and-conditionals-aka-teaching-a-computer-to-stop-2d94ab24b91a
+- Episode 3 - Programming Fundamentals Part 2: Loops and Functions - https://medium.com/@DaveLumAI/episode-3-loops-and-functions-or-how-to-stop-copy-pasting-yourself-into-madness-fac07f2d1bc4
+- Episode 4 - Algorithmic Thinking - https://medium.com/@DaveLumAI/algorithmic-thinking-the-superpower-you-already-use-you-just-dont-call-it-that-e7242fa13527
+- Episode 5 - Data Structures - https://medium.com/@DaveLumAI/episode-5-data-structures-putting-things-somewhere-so-you-can-find-them-again-51483812ac35
+- Episode 6 - History, Debugging, and Problem Solving - https://medium.com/@DaveLumAI/efe6db927fd3
+
+CS102 continuity links:
+- Episode 7 - Recursion and Problem Decomposition - https://medium.com/@DaveLumAI/episode-7-recursion-and-problem-decomposition-or-how-to-solve-a-problem-by-making-it-smaller-66f8b6fc19f2
+- Episode 8 - Complexity and Efficiency - https://medium.com/@DaveLumAI/episode-8-complexity-and-efficiency-or-why-two-correct-programs-can-have-very-different-regret-f6825b54207a
+- Episode 9 - Memory and the Machine - https://medium.com/@DaveLumAI/episode-9-memory-and-the-machine-or-what-the-computer-is-actually-doing-while-you-are-feeling-confident-b7bbabe9548f
+- Episode 10 - Files, Input, and Output - https://medium.com/@DaveLumAI/episode-10-files-input-and-output-or-how-programs-stop-living-entirely-inside-their-own-heads-941dc13d407d
+- Episode 11 - Modular Design and Abstraction - https://medium.com/@DaveLumAI/episode-11-modular-design-and-abstraction-or-how-to-make-your-code-less-like-a-junk-drawer-9b6273bc3721
+- Episode 12 - Testing and Reliability - https://medium.com/@DaveLumAI/episode-12-testing-and-reliability-or-why-it-worked-once-is-not-a-career-strategy-a50f80c8d6dc
+- Episode 13 - State, Bugs, and Program Behavior - https://medium.com/@DaveLumAI/episode-13-state-bugs-and-program-behavior-or-why-the-same-code-acts-different-after-lunch-91aeea89011d
+- Episode 14 - Intro to Object-Oriented and Alternative Design Styles - https://medium.com/@DaveLumAI/episode-14-intro-to-object-oriented-and-alternative-design-styles-or-why-not-every-problem-needs-60bd09afa968
+
+**Output discipline**
+
+- output the blog package only
+- no commentary before or after
+- no explanation of your choices
+- no tool chatter
+- no duplicate links
+- no repeated sections
