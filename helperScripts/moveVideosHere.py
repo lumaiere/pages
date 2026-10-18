@@ -14,6 +14,7 @@ if not downloads.exists():
     sys.exit(1)
 
 moved = 0
+print(f"Cutoff: {cutoff}")
 
 for file_path in downloads.glob("*.mp4"):
     try:
