@@ -1,0 +1,33 @@
+**Objective**
+
+- Write some additional compelling content for the blog just written
+
+**Details**
+
+- topic:  same as previously
+- tone: friendly, very humorous, light, conversational, and mildly educational
+- length: blog sized
+- author: AI Persona Dave LumAI
+- author should NOT be included in the blog content (no intros or mention of Dave LumAI)
+- don't include any other data before or after the blog content.  No intro sentence that isn't part of the blog that I have to remove before posting the blog.  - I want to be able to cut and paste with no editing.
+- Do include links to any references
+- please check all links and make sure they work.  Give me the entire blog with only correct links.  I do not like 404 errors.
+- Make sure everything copies without things like: citeturn0search2
+- Don't repeat yourself.  If you have made a point once, don't bring it up a second time unless it is super important and then you better clarify why you are bringing it up again.
+- Give me only the final markdown text I should post, with no labels or extra intro. I want to copy and paste it directly.
+- Always look at the project files in the project and make sure all content is fresh and new (not already included in these files).
+- Don't give me a complete blog, just answers to the below questions.  This will be inserted into the blog already written in this thread.
+
+
+## Only do this if running on Grok
+
+- Ensure all markdown includes code blocks wrapped in triple backticks (```) for consistent formatting, especially for Python examples.
+- Provide the markdown as raw text within a single code block using triple backticks, allowing easy selection and copying with Ctrl+A then Ctrl+C (or Cmd+A then Cmd+C).
+
+**Questions**
+ 
+- Because it is Friday and the fourth of July, give me a longish 4th of July joke and title it Friday Night Laughs Mini
+- What is the fastest growth an author has had on Medium?  What article?
+- Can you make any money directly on Medium?
+- What does that process look like?
+- Any other interesting tidbits?
