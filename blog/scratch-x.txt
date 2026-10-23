@@ -9,11 +9,11 @@
         - Provide a single post that can be copied and pasted directly into X as follows:  
   
           - a very short version of the blog but not revealing the best parts (tell them to click the links below to learn more)       
-            https://blog.lumaiere.com/i-merged-my-git-branch-deleted-it-on-github-and-its-still-here-what-kind-of-sorcery-is-this/
+            https://blog.lumaiere.com/software-longevity-i-just-finished-building-it-why-are-they-already-tearing-it-down/
             member link:
-            https://medium.com/@DaveLumAI/i-merged-my-git-branch-deleted-it-on-github-and-its-still-here-what-kind-of-sorcery-is-this-388ea7f55507
+            https://medium.com/@DaveLumAI/software-longevity-i-just-finished-building-it-why-are-they-already-tearing-it-down-fd7a368d81b2
             friend link:
-            https://medium.com/@DaveLumAI/i-merged-my-git-branch-deleted-it-on-github-and-its-still-here-what-kind-of-sorcery-is-this-388ea7f55507?sk=fdef54bc182faee369176f26123ffc9f
+            https://medium.com/@DaveLumAI/software-longevity-i-just-finished-building-it-why-are-they-already-tearing-it-down-fd7a368d81b2?sk=c544d90a72da676da1208536a11debb9
             
 
         - Also let the folks know they can see more art at: https://lumaiere.com 

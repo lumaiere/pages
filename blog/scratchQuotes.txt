@@ -7,6 +7,9 @@
     - Reliable software usually comes from overlapping layers rather than one heroic tool.
 
     - Programming remains annoyingly resistant to universal slogans.
+
+    - Don't rewrite software because it's old. Rewrite software when replacing it produces more value than maintaining it, at an acceptable level of risk. - https://medium.com/@DaveLumAI/software-longevity-i-just-finished-building-it-why-are-they-already-tearing-it-down-fd7a368d81b2
+    
 **Objective** 
 
 - Write a compelling blog
