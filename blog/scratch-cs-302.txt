@@ -72,7 +72,7 @@ Focus:
 Why here:
 Because this is one of the best capstone views of the programming stack.
 
-Episode 6 - Language Design Tradeoffs
+Episode 6 - Language Design Tradeoffs - https://medium.com/@DaveLumAI/cs302-episode-6-language-design-tradeoffs-or-why-every-programming-language-makes-you-pay-c97f57f3ed4d?sharedUserId=DaveLumAI
 No language is perfect. They are all just making different promises
 
 Focus:

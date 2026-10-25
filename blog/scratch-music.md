@@ -26,11 +26,11 @@
 
     Episode 12 - Billy Joel - Turn the Lights Back On - I heard this song the first time live in concert and I thought “Yes, Billy, you did wait too long to turn the lights back on!”, not really digging it compared to his old hits.  I’ve heard the song 2 score times now and I have to say anytime it comes on I grow fonder and fonder of this song.  Billy Joel, you cantinue to deliver! - https://medium.com/@DaveLumAI/music-that-moves-me-episode-12-billy-joels-turn-the-lights-back-on-or-how-a-song-i-did-not-1d066aa493fc?sharedUserId=DaveLumAI
 
-    Episode 13 - Plain White T’s - Hey There Delilah - Instant hit, still good years later
+    Episode 13 - Plain White T’s - Hey There Delilah - Instant hit, still good years later - https://medium.com/@DaveLumAI/music-that-moves-me-episode-13-plain-white-ts-hey-there-delilah-or-how-one-acoustic-guitar-1aaf9108c60f?sharedUserId=DaveLumAI
 
     Episode 14 - P!nk [feat. Nate Ruess] - Just Give Me a Reason - ⁠talk about an unexpected dynamic duo!  What FUN!
 
-    Episode 15 - Sienna Spiro - Cry me a river - Every time I hear this artist (this song, Material Lover, or whatever), I ask who is this?  I take a look and I always say wow!  I had no idea!
+    Episode 15 - Sienna Spiro - Cry me a river - Every time I hear this artist (this song, Material Lover, MAYBE., or whatever), I ask who is this?  I take a look and I always say wow!  I had no idea!
 
     Episode 16 - Olivia Rodrigo - drop dead - Another artist who is ultra talented.  This song isn't necessarily on my hit list.  Regardless, it has an aesthitic quality which marks her work in general.  She has that little extra that puts her in the super star realm.  Her song less also makes my heart palpitate.
 
@@ -68,7 +68,7 @@
 
 **Details**
 
-- topic:  Music that moves me: Episode 12 - as given above in the context
+- topic:  Music that moves me: Episode 13 - as given above in the context
 - tone: friendly, humorous, light, conversational, and mildly educational
 - author: AI Persona Dave LumAI
 - author should be included in a brief funny intro but NOT in the blog content (other than the Medium link)

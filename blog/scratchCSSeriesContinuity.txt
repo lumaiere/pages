@@ -1,0 +1,155 @@
+
+**Context**
+
+Course:
+CS302: Programming Languages and Compiler Basics
+
+Course framing:
+
+Students have used languages. Now they get to understand why languages are shaped the way they are, and how code becomes executable machinery without a wizard hiding backstage.
+
+Course map:
+
+Episode 1 - What a Programming Language Is - https://medium.com/@DaveLumAI/cs302-episode-1-what-a-programming-language-is-or-more-than-syntax-less-than-religion-though-2be89ef1beb0?sharedUserId=DaveLumAI
+More than syntax, less than religion, though some people blur that line
+
+Focus:
+
+* syntax vs semantics
+* language design choices
+* types, expressions, and control flow
+* why languages feel different even when solving the same task
+
+Why here:
+Because languages are design artifacts, not just tools.
+
+Episode 2 - Parsing and Structure - https://medium.com/@DaveLumAI/cs302-episode-2-parsing-and-structure-or-how-your-compiler-turns-a-wall-of-text-into-something-it-ebc5df871034?sharedUserId=DaveLumAI
+How text becomes something a compiler can reason about
+
+Focus:
+
+* tokens and grammars
+* parse trees
+* syntax errors
+* structured meaning from raw text
+
+Why here:
+Because compilers need to understand form before meaning.
+
+Episode 3 - Type Systems and Meaning - https://medium.com/@DaveLumAI/cs302-episode-3-type-systems-and-meaning-or-how-languages-try-to-stop-you-before-runtime-has-to-02fda0779c47?sharedUserId=DaveLumAI
+How languages try to stop you before runtime has to
+
+Focus:
+
+* static vs dynamic typing
+* type safety
+* inference
+* what types are really buying you
+
+Why here:
+Because the idea of correctness begins earlier than execution.
+
+Episode 4 - Interpretation vs Compilation - https://medium.com/@DaveLumAI/cs302-episode-4-interpretation-vs-compilation-or-two-ways-to-turn-your-intentions-into-605a35aa1f52?sharedUserId=DaveLumAI
+Two ways to turn your intentions into consequences
+
+Focus:
+
+* interpreted and compiled models
+* runtime behavior
+* portability and performance
+* what these labels do and do not mean
+
+Why here:
+Because students should stop using these words as mood descriptions.
+
+Episode 5 - Compiler Pipeline Basics - https://medium.com/@DaveLumAI/cs302-episode-5-compiler-pipeline-basics-or-how-your-code-gets-taken-apart-judged-rearranged-6a79a042b755?sharedUserId=DaveLumAI
+How your code gets transformed step by step into something the machine can obey
+
+Focus:
+
+* lexing
+* parsing
+* semantic analysis
+* optimization and code generation
+
+Why here:
+Because this is one of the best capstone views of the programming stack.
+
+Episode 6 - Language Design Tradeoffs - https://medium.com/@DaveLumAI/cs302-episode-6-language-design-tradeoffs-or-why-every-programming-language-makes-you-pay-c97f57f3ed4d?sharedUserId=DaveLumAI
+No language is perfect. They are all just making different promises
+
+Focus:
+
+* safety vs flexibility
+* simplicity vs power
+* expressiveness vs predictability
+* why style wars never truly end
+
+
+**Objective**
+
+- give me continuity links for the course in the context above to be used in future CS episodes
+
+**Details**
+
+- The links should be in a single source code block so they can be easily copied into future prompts.
+- The links should be in a similar format as the previous links shown below:  
+
+CS101 continuity links:
+- Episode 1 - What Is CS 101? - https://medium.com/@DaveLumAI/back-to-basics-cs-101-explained-like-youre-holding-the-syllabus-upside-down-554961c6e0b8
+- Episode 2 - Programming Fundamentals Part 1: Variables and Conditionals - https://medium.com/@DaveLumAI/programming-fundamentals-part-1-variables-and-conditionals-aka-teaching-a-computer-to-stop-2d94ab24b91a
+- Episode 3 - Programming Fundamentals Part 2: Loops and Functions - https://medium.com/@DaveLumAI/episode-3-loops-and-functions-or-how-to-stop-copy-pasting-yourself-into-madness-fac07f2d1bc4
+- Episode 4 - Algorithmic Thinking - https://medium.com/@DaveLumAI/algorithmic-thinking-the-superpower-you-already-use-you-just-dont-call-it-that-e7242fa13527
+- Episode 5 - Data Structures - https://medium.com/@DaveLumAI/episode-5-data-structures-putting-things-somewhere-so-you-can-find-them-again-51483812ac35
+- Episode 6 - History, Debugging, and Problem Solving - https://medium.com/@DaveLumAI/efe6db927fd3
+
+CS102 continuity links:
+- Episode 7 - Recursion and Problem Decomposition - https://medium.com/@DaveLumAI/episode-7-recursion-and-problem-decomposition-or-how-to-solve-a-problem-by-making-it-smaller-66f8b6fc19f2
+- Episode 8 - Complexity and Efficiency - https://medium.com/@DaveLumAI/episode-8-complexity-and-efficiency-or-why-two-correct-programs-can-have-very-different-regret-f6825b54207a
+- Episode 9 - Memory and the Machine - https://medium.com/@DaveLumAI/episode-9-memory-and-the-machine-or-what-the-computer-is-actually-doing-while-you-are-feeling-confident-b7bbabe9548f
+- Episode 10 - Files, Input, and Output - https://medium.com/@DaveLumAI/episode-10-files-input-and-output-or-how-programs-stop-living-entirely-inside-their-own-heads-941dc13d407d
+- Episode 11 - Modular Design and Abstraction - https://medium.com/@DaveLumAI/episode-11-modular-design-and-abstraction-or-how-to-make-your-code-less-like-a-junk-drawer-9b6273bc3721
+- Episode 12 - Testing and Reliability - https://medium.com/@DaveLumAI/episode-12-testing-and-reliability-or-why-it-worked-once-is-not-a-career-strategy-a50f80c8d6dc
+- Episode 13 - State, Bugs, and Program Behavior - https://medium.com/@DaveLumAI/episode-13-state-bugs-and-program-behavior-or-why-the-same-code-acts-different-after-lunch-91aeea89011d
+- Episode 14 - Intro to Object-Oriented and Alternative Design Styles - https://medium.com/@DaveLumAI/episode-14-intro-to-object-oriented-and-alternative-design-styles-or-why-not-every-problem-needs-60bd09afa968
+
+CS201 continuity links:
+Episode 1 - How a Computer Actually Runs a Program
+https://medium.com/@DaveLumAI/how-a-computer-actually-runs-a-program-or-why-your-code-does-not-levitate-into-reality-by-positive-2c0127117462
+
+Episode 2 - Bits, Bytes, and Data Representation
+https://medium.com/@DaveLumAI/episode-2-bits-bytes-and-data-representation-or-how-everything-becomes-zeros-ones-and-88e98577be19
+
+Episode 3 - Logic, Gates, and Digital Circuits
+https://medium.com/@DaveLumAI/episode-3-logic-gates-and-digital-circuits-or-tiny-electrical-decisions-all-the-way-down-683a8043c6fc
+
+Episode 4 - Assembly Language and the Machine Model
+https://medium.com/@DaveLumAI/episode-4-assembly-language-and-the-machine-model-or-programming-with-fewer-comforts-and-more-231b34dae026
+
+Episode 5 - CPU Architecture and Performance Basics
+https://medium.com/@DaveLumAI/episode-5-cpu-architecture-and-performance-basics-or-why-your-processor-is-fast-weird-and-4ddf794b13d2
+
+Episode 6 - Processes, Threads, and Concurrency Basics
+https://medium.com/@DaveLumAI/episode-6-processes-threads-and-concurrency-basics-or-how-one-machine-does-many-things-at-once-6ef3836f4ebf
+
+Episode 7 - Operating Systems in Plain English
+https://medium.com/@DaveLumAI/episode-7-operating-systems-in-plain-english-or-the-adult-in-the-room-that-keeps-programs-from-a267d108394c
+
+CS202 continuity links:
+
+* Episode 1 - Version Control and Change Management - https://medium.com/@DaveLumAI/cs202-episode-1-version-control-and-change-management-or-how-teams-remember-what-happened-before-068050d8d334
+* Episode 2 - APIs and Program Boundaries - https://medium.com/@DaveLumAI/cs202-episode-2-apis-and-program-boundaries-or-how-software-talks-without-everyone-crying-1da7a2f92fe4
+* Episode 3 - Error Handling and Defensive Programming - https://medium.com/@DaveLumAI/cs202-episode-3-error-handling-and-defensive-programming-or-hope-is-not-an-exception-strategy-2b093be55f2f
+* Episode 4 - Refactoring and Code Smell - https://medium.com/@DaveLumAI/cs202-episode-4-refactoring-and-code-smell-or-how-to-improve-code-without-setting-fire-to-the-035aeb2902e5
+* Episode 5 - Build Systems and Dependency Management - https://medium.com/@DaveLumAI/cs202-episode-5-build-systems-and-dependency-management-or-how-software-becomes-a-thing-you-can-b4a0b8dca81b
+* Episode 6 - Debugging at Scale - https://medium.com/@DaveLumAI/cs202-episode-6-debugging-at-scale-or-when-the-bug-is-not-in-one-line-but-in-the-relationship-329b442af6c5
+* Episode 7 - Software Engineering as Team Sport - https://medium.com/@DaveLumAI/cs202-episode-7-software-engineering-as-team-sport-or-the-social-layer-of-technical-work-where-e5c4fd852798
+
+CS301 continuity links:
+
+* Episode 1 - What Makes an Algorithm Good - https://medium.com/@DaveLumAI/cs301-episode-1-what-makes-an-algorithm-good-or-correctness-is-the-floor-not-the-ceiling-90bceb64c7a5
+* Episode 2 - Divide and Conquer - https://medium.com/@DaveLumAI/cs301-episode-2-divide-and-conquer-or-how-to-split-the-problem-until-it-starts-behaving-820f596dd467
+* Episode 3 - Greedy Algorithms - https://medium.com/@DaveLumAI/cs301-episode-3-greedy-algorithms-or-how-to-make-the-best-move-before-the-universe-changes-its-62855af48455
+* Episode 4 - Dynamic Programming - https://medium.com/@DaveLumAI/cs301-episode-4-dynamic-programming-or-how-to-stop-solving-the-same-headache-repeatedly-acc9288b0909
+* Episode 5 - Graph Algorithms - https://medium.com/@DaveLumAI/cs301-episode-5-graph-algorithms-or-why-the-world-is-secretly-a-graph-and-now-you-get-to-prove-it-6eb1640d0aaf
+* Episode 6 - NP, Hard Problems, and Practical Limits - https://medium.com/@DaveLumAI/cs301-episode-6-np-hard-problems-and-practical-limits-or-where-computer-science-looks-at-a-f53c66de6970

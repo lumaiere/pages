@@ -182,6 +182,58 @@ CS102 continuity links:
 - Episode 13 - State, Bugs, and Program Behavior - https://medium.com/@DaveLumAI/episode-13-state-bugs-and-program-behavior-or-why-the-same-code-acts-different-after-lunch-91aeea89011d
 - Episode 14 - Intro to Object-Oriented and Alternative Design Styles - https://medium.com/@DaveLumAI/episode-14-intro-to-object-oriented-and-alternative-design-styles-or-why-not-every-problem-needs-60bd09afa968
 
+CS201 continuity links:
+Episode 1 - How a Computer Actually Runs a Program
+https://medium.com/@DaveLumAI/how-a-computer-actually-runs-a-program-or-why-your-code-does-not-levitate-into-reality-by-positive-2c0127117462
+
+Episode 2 - Bits, Bytes, and Data Representation
+https://medium.com/@DaveLumAI/episode-2-bits-bytes-and-data-representation-or-how-everything-becomes-zeros-ones-and-88e98577be19
+
+Episode 3 - Logic, Gates, and Digital Circuits
+https://medium.com/@DaveLumAI/episode-3-logic-gates-and-digital-circuits-or-tiny-electrical-decisions-all-the-way-down-683a8043c6fc
+
+Episode 4 - Assembly Language and the Machine Model
+https://medium.com/@DaveLumAI/episode-4-assembly-language-and-the-machine-model-or-programming-with-fewer-comforts-and-more-231b34dae026
+
+Episode 5 - CPU Architecture and Performance Basics
+https://medium.com/@DaveLumAI/episode-5-cpu-architecture-and-performance-basics-or-why-your-processor-is-fast-weird-and-4ddf794b13d2
+
+Episode 6 - Processes, Threads, and Concurrency Basics
+https://medium.com/@DaveLumAI/episode-6-processes-threads-and-concurrency-basics-or-how-one-machine-does-many-things-at-once-6ef3836f4ebf
+
+Episode 7 - Operating Systems in Plain English
+https://medium.com/@DaveLumAI/episode-7-operating-systems-in-plain-english-or-the-adult-in-the-room-that-keeps-programs-from-a267d108394c
+
+CS202 continuity links:
+
+* Episode 1 - Version Control and Change Management - https://medium.com/@DaveLumAI/cs202-episode-1-version-control-and-change-management-or-how-teams-remember-what-happened-before-068050d8d334
+* Episode 2 - APIs and Program Boundaries - https://medium.com/@DaveLumAI/cs202-episode-2-apis-and-program-boundaries-or-how-software-talks-without-everyone-crying-1da7a2f92fe4
+* Episode 3 - Error Handling and Defensive Programming - https://medium.com/@DaveLumAI/cs202-episode-3-error-handling-and-defensive-programming-or-hope-is-not-an-exception-strategy-2b093be55f2f
+* Episode 4 - Refactoring and Code Smell - https://medium.com/@DaveLumAI/cs202-episode-4-refactoring-and-code-smell-or-how-to-improve-code-without-setting-fire-to-the-035aeb2902e5
+* Episode 5 - Build Systems and Dependency Management - https://medium.com/@DaveLumAI/cs202-episode-5-build-systems-and-dependency-management-or-how-software-becomes-a-thing-you-can-b4a0b8dca81b
+* Episode 6 - Debugging at Scale - https://medium.com/@DaveLumAI/cs202-episode-6-debugging-at-scale-or-when-the-bug-is-not-in-one-line-but-in-the-relationship-329b442af6c5
+* Episode 7 - Software Engineering as Team Sport - https://medium.com/@DaveLumAI/cs202-episode-7-software-engineering-as-team-sport-or-the-social-layer-of-technical-work-where-e5c4fd852798
+
+CS301 continuity links:
+
+* Episode 1 - What Makes an Algorithm Good - https://medium.com/@DaveLumAI/cs301-episode-1-what-makes-an-algorithm-good-or-correctness-is-the-floor-not-the-ceiling-90bceb64c7a5
+* Episode 2 - Divide and Conquer - https://medium.com/@DaveLumAI/cs301-episode-2-divide-and-conquer-or-how-to-split-the-problem-until-it-starts-behaving-820f596dd467
+* Episode 3 - Greedy Algorithms - https://medium.com/@DaveLumAI/cs301-episode-3-greedy-algorithms-or-how-to-make-the-best-move-before-the-universe-changes-its-62855af48455
+* Episode 4 - Dynamic Programming - https://medium.com/@DaveLumAI/cs301-episode-4-dynamic-programming-or-how-to-stop-solving-the-same-headache-repeatedly-acc9288b0909
+* Episode 5 - Graph Algorithms - https://medium.com/@DaveLumAI/cs301-episode-5-graph-algorithms-or-why-the-world-is-secretly-a-graph-and-now-you-get-to-prove-it-6eb1640d0aaf
+* Episode 6 - NP, Hard Problems, and Practical Limits - https://medium.com/@DaveLumAI/cs301-episode-6-np-hard-problems-and-practical-limits-or-where-computer-science-looks-at-a-f53c66de6970
+
+
+CS302 continuity links:
+
+- Episode 1 - What a Programming Language Is - https://medium.com/@DaveLumAI/cs302-episode-1-what-a-programming-language-is-or-more-than-syntax-less-than-religion-though-2be89ef1beb0?sharedUserId=DaveLumAI
+- Episode 2 - Parsing and Structure - https://medium.com/@DaveLumAI/cs302-episode-2-parsing-and-structure-or-how-your-compiler-turns-a-wall-of-text-into-something-it-ebc5df871034?sharedUserId=DaveLumAI
+- Episode 3 - Type Systems and Meaning - https://medium.com/@DaveLumAI/cs302-episode-3-type-systems-and-meaning-or-how-languages-try-to-stop-you-before-runtime-has-to-02fda0779c47?sharedUserId=DaveLumAI
+- Episode 4 - Interpretation vs Compilation - https://medium.com/@DaveLumAI/cs302-episode-4-interpretation-vs-compilation-or-two-ways-to-turn-your-intentions-into-605a35aa1f52?sharedUserId=DaveLumAI
+- Episode 5 - Compiler Pipeline Basics - https://medium.com/@DaveLumAI/cs302-episode-5-compiler-pipeline-basics-or-how-your-code-gets-taken-apart-judged-rearranged-6a79a042b755?sharedUserId=DaveLumAI
+- Episode 6 - Language Design Tradeoffs - https://medium.com/@DaveLumAI/cs302-episode-6-language-design-tradeoffs-or-why-every-programming-language-makes-you-pay-c97f57f3ed4d?sharedUserId=DaveLumAI
+
+
 **Output discipline**
 
 - output the blog package only
