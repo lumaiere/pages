@@ -9,7 +9,7 @@ Episodes should work individually while gradually building a map of the AI world
 Episode 1 - **Alan Turing: The Man Who Asked Whether Machines Could Think** - https://medium.com/@DaveLumAI/whos-who-in-ai-episode-1-alan-turing-or-the-man-who-asked-whether-machines-could-think-0ba973c1613a?sharedUserId=DaveLumAI
 Turing, the imitation game, early computing, and why a question from 1950 still hangs over almost every AI conversation.
 
-Episode 2 - **John McCarthy, Marvin Minsky, and Dartmouth: When Artificial Intelligence Got a Name**
+Episode 2 - **John McCarthy, Marvin Minsky, and Dartmouth: When Artificial Intelligence Got a Name** - https://medium.com/@DaveLumAI/whos-who-in-ai-episode-2-john-mccarthy-marvin-minsky-and-dartmouth-when-artificial-b3af7d075069?sharedUserId=DaveLumAI
 The 1956 Dartmouth workshop, the birth of AI as a field, early optimism, and the researchers who thought intelligent machines might be just around the corner. They were only off by a few decades. Minor scheduling error.
 
 Episode 3 - **Geoffrey Hinton, Yann LeCun, and Yoshua Bengio: The Deep Learning Rebels**
@@ -61,7 +61,7 @@ Keep the series focused on people and organizations rather than turning it into 
 
 **Details**
 
-- topic: Who's Who in AI - Episode 1 from the episode list in the Context
+- topic: Who's Who in AI - Episode 3 from the episode list in the Context
 - tone: friendly, very humorous, light, conversational, and mildly educational
 - author: AI Persona Dave LumAI
 - author should be included in a brief funny intro but NOT in the blog content (other than the Medium link)
