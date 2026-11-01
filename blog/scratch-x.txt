@@ -9,11 +9,11 @@
         - Provide a single post that can be copied and pasted directly into X as follows:  
   
           - a very short version of the blog but not revealing the best parts (tell them to click the links below to learn more)       
-            https://blog.lumaiere.com/software-longevity-i-just-finished-building-it-why-are-they-already-tearing-it-down/
+            https://blog.lumaiere.com/what-the-heck-is-a-neocloud-company-or-did-someone-just-give-the-cloud-a-10-billion-makeover/
             member link:
-            https://medium.com/@DaveLumAI/software-longevity-i-just-finished-building-it-why-are-they-already-tearing-it-down-fd7a368d81b2
+            https://medium.com/@DaveLumAI/what-the-heck-is-a-neocloud-company-or-did-someone-just-give-the-cloud-a-10-billion-makeover-22889ad4a525
             friend link:
-            https://medium.com/@DaveLumAI/software-longevity-i-just-finished-building-it-why-are-they-already-tearing-it-down-fd7a368d81b2?sk=c544d90a72da676da1208536a11debb9
+            https://medium.com/@DaveLumAI/what-the-heck-is-a-neocloud-company-or-did-someone-just-give-the-cloud-a-10-billion-makeover-22889ad4a525?sk=fa941dac70fe2c1de86f34c35f6c33a3
             
 
         - Also let the folks know they can see more art at: https://lumaiere.com 
@@ -74,9 +74,4 @@ For this request, output exactly 7 separate top-level source code blocks in this
 Every numbered item above must appear in its own separate source code block with its own copy button.
 
 Do not include any text, headings, explanations, or commentary outside the 7 source code blocks.
-
-
-I want to use ffmpeg to make a separate video named application-waiver-for-testing.webm from 25:40 to 26:0 from NewProposedAndCompleteApplication.webm.
-
-I want to use ffmpeg to cut out the dead areas in this video NewProposedAndCompleteApplication.webm.  I want to cut at 5:01 to 5:40.  Cut from 6:16 to 8:00. Cut from 23:02 to 26:30.  Cut from 31:17 to 33:19.  Cut from 43:35 until the end.
 
