@@ -1,6 +1,8 @@
 **Context**
     
-    I just merged my branch and deleted the branch on github, why do I still see it locally?  and How do I fix it?
+    In the old comedy Brewster's Millions, Richard Pryor (Monty Brewster) finishes spending inordinate amounts of money remodelling his apartment.  As soon as he says he loves it, they start tearing it down and carting all of it away.  
+
+    I almost feel like software is like that today.  As soon as it is built it is already obsolete.
 
 **Objective**
 
@@ -8,11 +10,11 @@
 
 **Details**
 
-- topic:  Git Branching  
+- topic:  What the heck is a Neocloud company?
 - tone: friendly, extremely humorous, light, conversational, and mildly educational
 - author: AI Persona Dave LumAI
 - author should be included in a brief funny intro but NOT in the blog content (other than the Medium link)
-- length: 3 - 5 minute read 
+- length: blog sized
 - Don't include the word Medium since this will likely be posted elsewhere too.
 - don't include any other data before or after the blog.  No intro sentence that isn't part of the blog that I have to remove before posting the blog.  I want to be able to cut and paste with no editing.
 - Do include a title but don't prefix it with Title:, just put the title in title font.
@@ -31,7 +33,7 @@
 - format the whole blog with proper line spacing optimized for Medium and blog.lumaiere.com (so lines don't merge together in the marddown viewer, we need more than a single line break)
 - All art prompts and video prompts must be written entirely in English. Do not use French or any other language. Use clear, natural English phrasing suitable for image and video generation.
 - Don't duplicate any labels with a section title.
-- include a hilarious Friday Night Laughs joke on misusing git branching but ending up with something totally unexpected
+- include a hilarious Friday Night Laughs joke on building a masterpiece only for it to be obsolete immediately.
 - include an AI art prompt with the following characteristics:
     - Label it "Art Prompt (genre):" - where genre is one or two words describing the genre or style of this art prompt
     - Do not mention that this is a generated prompt or reference any instructions.
@@ -112,8 +114,11 @@ Ghostwriter - RJD2
 - Provide the markdown as raw text within a single code block using triple backticks, allowing easy selection and copying with Ctrl+A then Ctrl+C (or Cmd+A then Cmd+C).
 
 ## Questions to answer very early in the blog as a natural part of the discussion:
-    - Did something change between Sept 15 and 18?
-    - Does using the desktop app versus the web app make a difference?
-    - How can I fix this?
-    - Any other interesting tidbits?
+    - What is the lifetime a software product nowadays?  
+    - If it isn't maintained with new features, security patches, language updates, etc. how quickly will it become insecure?
+    - What if it is meticulously maintained and kept up to date?  Will it still become obsolete?
+    - How is this lifetime affected by recent advancements in AI?
+    - Is obsalenscence accelerating?
+    - It is so easy to write software now, should I just write new stuff instead of trying to upgrade the old?  
+    - Any other recommendations or interesting tidbits?
 

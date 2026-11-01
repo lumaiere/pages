@@ -58,7 +58,10 @@
 
     Episoe 28 - Dexter and The Moonrocks - If You Could Talk - The initial guitar caught my attention immediately and I wanted to know who these guys were.
 
-    Episoe 29 - Ashe - Stop The Wedding! - Honestly I can't say that I really like this song but damn it gets stuck in my head!  
+    Episoe 29 - Ashe - Stop The Wedding! - Honestly I can't say that I'm madly in love with this song but damn it gets stuck in my head!  
+
+    Episode 30 - Lola Young - SPIDERS - Wow! The passion!
+
 
 
 
