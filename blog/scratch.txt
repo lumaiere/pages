@@ -41,7 +41,6 @@
 - format the whole blog with proper line spacing optimized for Medium and blog.lumaiere.com (so lines don't merge together in the marddown viewer, we need more than a single line break)
 - All art prompts and video prompts must be written entirely in English. Do not use French or any other language. Use clear, natural English phrasing suitable for image and video generation.
 - Don't duplicate any labels with a section title.
-- include a hilarious Friday Night Laughs joke on building a masterpiece only for it to be obsolete immediately.
 - include an AI art prompt with the following characteristics:
     - Label it "Art Prompt (genre):" - where genre is one or two words describing the genre or style of this art prompt
     - Do not mention that this is a generated prompt or reference any instructions.
