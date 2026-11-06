@@ -28,7 +28,7 @@
 
     Episode 13 - Plain White T’s - Hey There Delilah - Instant hit, still good years later - https://medium.com/@DaveLumAI/music-that-moves-me-episode-13-plain-white-ts-hey-there-delilah-or-how-one-acoustic-guitar-1aaf9108c60f?sharedUserId=DaveLumAI
 
-    Episode 14 - P!nk [feat. Nate Ruess] - Just Give Me a Reason - ⁠talk about an unexpected dynamic duo!  What FUN!
+    Episode 14 - P!nk [feat. Nate Ruess] - Just Give Me a Reason - ⁠talk about an unexpected dynamic duo!  What FUN!  Pink originally brings me back to Los Angeles, CA when she was new and hot.  Then FUN brings me right back to Dunedin FL when I was on a work call when the engineer mentioned this unexpected duo. - https://medium.com/@DaveLumAI/music-that-moves-me-episode-14-p-nk-97e91c4cabbe
 
     Episode 15 - Sienna Spiro - Cry me a river - Every time I hear this artist (this song, Material Lover, MAYBE., or whatever), I ask who is this?  I take a look and I always say wow!  I had no idea!
 
@@ -62,7 +62,30 @@
 
     Episode 30 - Lola Young - SPIDERS - Wow! The passion!
 
+    Episode 31 - Loggins & Messina - Danny's Song - I can listen to this song over and over again.  Little bit of country vibe but I can ignore that. ;)
 
+    Episode 32 - Eagles- Desperado - Ok.  These guys have so many great songs.  This just happens to be the one that came up and gave me Eagles warm and fuzzies.
+
+    Episode 33 - Bee Gees - How Deep Is Your Love - Another classic.  You think of Bee Gees and you think of disco.  Is this song disco?
+
+    Episode 34 - Christopher Cross - Arthur's Theme (Best That You Can Do) - Love this song - was great in concert too.  Still turing!
+
+    Episode 35 - Air Supply - Even the Nights Are Better - Makes my days brighter and my nights better!
+
+    Episode 36 - Dexter and The Moonrocks - If You Could Talk - This grows on me.  The longer the song plays the more and more I am into it.
+
+    Episode 37 - Téléphone - Un autre monde - Brings me back to Paris in the 90s and strangely enough also makes me think of another band Indochine (so I guess we get a 2fer) and going to L'Olympia in Paris on May 14, 1994 to see them with my on-and-off exgirlfriend Chrystelle.
+
+
+    Episode 39 - Kansas - Dust in the Wind - Timeless classic
+
+    Episode 40 - Oasis - Wonderwall - Funny story behind this one.  We are back in Paris in the 90s.  I am reading a French article about this band Oasis being a gigantic hit.  Frankly I had never heard of them before this article but I believe they compared them to the beatles in meteoric rise in popularity.  When I finally heard this song some months later, it brought me back to that time in Paris and me saying, ah...that is who they were talking about!
+
+    Episode 41 - Red Hot Chili Peppers - Under the Bridge - The Chili Peppers have an especially good ability to bring me back to different periods of my life.  Give It Away was the rage in 91 when I went off to college.  A year or two later, I remember sitting in my girlfriend Verna's living room watching the video for Under the Bridge.  Where are you Verna?  I hope you are doing well in life!  Several year later Scar Tissue transports me to Minnesota.  Then in 2014 when they played the Super Bowl I remember a friend posting on Facebook that both Bruno Mars and the Chili Peppers would be so much more popular now.  Yes indeed but where you been for the last quarter decade?!?!
+
+
+
+    Episode 50 - Édith Piaf - La Vie en rose - Milestone episode 50 needed a monumental artist and who better than Édith Piaf.  This song is iconic and timeless.
 
 
 **Objective**
@@ -71,7 +94,7 @@
 
 **Details**
 
-- topic:  Music that moves me: Episode 13 - as given above in the context
+- topic:  Music that moves me: Episode 14 - as given above in the context
 - tone: friendly, humorous, light, conversational, and mildly educational
 - author: AI Persona Dave LumAI
 - author should be included in a brief funny intro but NOT in the blog content (other than the Medium link)
@@ -86,9 +109,10 @@
 - Don't put any footnotes or endnotes, all links should be in line.
 - Make sure everything copies without things like: citeturn0search2
 - Do include a link to the product and any other applicable links.
+- Do include inline youtube links to all songs named in the article.
 - When the entire blog is done scan through the entire blog and remove any duplicate links and make sure they all work.
 - Don't use overused metaphors like calling something a swiss army knife (which you've already done in 44 blog posts!)
-- Don't repeat yourself.  If you have made a point once, don't bring it up a second time unless it is super important and then you better clarify why you are bringing it up again.
+- Don't repeat yourself.  If you have made a point once, don't bring it up a second time ever!  I don't want to hear the same thing twice.
 - format the whole blog with proper line spacing optimized for Medium and blog.lumaiere.com (so lines don't merge together in the marddown viewer, we need more than a single line break)
 - All art prompts and video prompts must be written entirely in English. Do not use French or any other language. Use clear, natural English phrasing suitable for image and video generation.
 - Don't duplicate any labels with a section title.
