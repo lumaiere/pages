@@ -1,5 +1,5 @@
 **Context**
-    I find that using command + click to open a link in a new browser tab is an extemely useful tool.  For example, if scrolling down a week of notifications on facebook, I command click any that I want to look at so I don't lose my place scrolling down.
+    
 
 **Objective**
 
@@ -7,7 +7,7 @@
 
 **Details**
 
-- topic:  How this article will save you 3 days when OpenAI Support, ChatGPT, and Claude can't help: Changing your SSO Tenant Name for logging in to ChatGPT
+- topic:  What the heck is a git worktree?
 - tone: friendly, extremely humorous, light, conversational, and mildly educational
 - author: AI Persona Dave LumAI
 - author should be included in a brief funny intro but NOT in the blog content (other than the Medium link)

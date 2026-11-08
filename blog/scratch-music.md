@@ -76,6 +76,7 @@
 
     Episode 37 - Téléphone - Un autre monde - Brings me back to Paris in the 90s and strangely enough also makes me think of another band Indochine (so I guess we get a 2fer) and going to L'Olympia in Paris on May 14, 1994 to see them with my on-and-off exgirlfriend Chrystelle.
 
+    Episode 38 - Tracy Chapman - Fast Car - Classic - She was definitely someone with this song!
 
     Episode 39 - Kansas - Dust in the Wind - Timeless classic
 
@@ -83,9 +84,19 @@
 
     Episode 41 - Red Hot Chili Peppers - Under the Bridge - The Chili Peppers have an especially good ability to bring me back to different periods of my life.  Give It Away was the rage in 91 when I went off to college.  A year or two later, I remember sitting in my girlfriend Verna's living room watching the video for Under the Bridge.  Where are you Verna?  I hope you are doing well in life!  Several year later Scar Tissue transports me to Minnesota.  Then in 2014 when they played the Super Bowl I remember a friend posting on Facebook that both Bruno Mars and the Chili Peppers would be so much more popular now.  Yes indeed but where you been for the last quarter decade?!?!
 
+    Episode 42 - The Beatles - Something - And how did we get to episode 42 before the Beatles?  To be fair they were in mind earlier and they have so many great songs where do you start for this series?  Something moves me just the right way.  Let's start there!
+
 
 
     Episode 50 - Édith Piaf - La Vie en rose - Milestone episode 50 needed a monumental artist and who better than Édith Piaf.  This song is iconic and timeless.
+
+    Episode 51 - Seals and Crofts - Summer Breeze - I get a physical reaction to to those chords in the song after the line "Blowing through the jasmine in my mind".  Not sure why but I like it!
+
+    
+
+    Episode 55 - Gerry Rafferty - Baker Street - I put this in the same category as Summer Breeze from Episode 51.  Smooth smooth feelings.
+
+
 
 
 **Objective**

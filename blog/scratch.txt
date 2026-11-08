@@ -1,16 +1,7 @@
 **Context**
     
-    I have 3 posts that are pinned to the top of my profile.  These have been there forever.  Not because they are my best or most popular posts but because I can't seem to unpin them!  
-    
-    Ive tried these methods to unpin them on the web app:
-    - I've tried clicking the three dots next to the post under https://www.tiktok.com/tiktokstudio/content and clicking Unpin from top.  Surely that should do it!  Nope!
-    - I've tried opening the post https://www.tiktok.com/@davelumai/video/7557729807530741023 and searched everywhere for an unpin.  I've tried to long press on the video.  Nope!
-    I've tried these on the mobile app:
-    - I tried in my profile to tap or long tap where it is written Pinned. Nope!
-    - I opened the post and looked everywhere for an unpin option. Nope!
-    - I tapped the three dots on the comment Add 1st bubble. Nope!
-    - I tapped the three dots that lets me shared the post. Nope!
-    - In desparation I tapped the three dots that opens the Send to menu again, and there in the last row of greyish icons I spotted Unpin.  I tapped that and miraculously it worked!!!!  
+    Sometimes a get a revised PDF document and I don't want to read all 3 pages again to find out what changed.
+    I run it through diff-pdf and find one small change on page 3!  Thank god for diff!
 
 **Objective**
 
@@ -18,7 +9,7 @@
 
 **Details**
 
-- topic:  Why can't I unpin a post in tiktok?
+- topic:  Diffing PDFs with diff-pdf on mac
 - tone: friendly, extremely humorous, light, conversational, and mildly educational
 - author: AI Persona Dave LumAI
 - author should be included in a brief funny intro but NOT in the blog content (other than the Medium link)

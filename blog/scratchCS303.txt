@@ -7,7 +7,7 @@ Programs eventually need to remember things on purpose, not just during their br
 
 Course map:
 
-Episode 1 - Why Databases Exist
+Episode 1 - Why Databases Exist - https://medium.com/@DaveLumAI/cs303-episode-1-why-databases-exist-or-because-text-files-eventually-become-a-cry-for-help-8fa9d958625b?sharedUserId=DaveLumAI
 Because text files eventually become a cry for help
 
 Focus:
@@ -108,7 +108,7 @@ Because students should know the broader landscape without joining a database cu
 
 **Details**
 
-- topic: Episode REPLACE_ONLY_THIS_VALUE as given above
+- topic: Episode 2 as given above
 - tone: friendly, humorous, light, conversational, and mildly educational
 - author: AI Persona Dave LumAI
 - author should NOT be included in the blog content
