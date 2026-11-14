@@ -1,7 +1,6 @@
 **Context**
     
-    Sometimes a get a revised PDF document and I don't want to read all 3 pages again to find out what changed.
-    I run it through diff-pdf and find one small change on page 3!  Thank god for diff!
+    How did I get my bookmarks bar stuck in chrome.  I can uncheck always show bookmarks bar and the bar disapears.  When I open a new tab it still isn't there.  I would like the bar to be there when I open a new tab but not when I visit a site.
 
 **Objective**
 
@@ -9,7 +8,7 @@
 
 **Details**
 
-- topic:  Diffing PDFs with diff-pdf on mac
+- topic:  Bookmarking the bookmarks bar in Chrome
 - tone: friendly, extremely humorous, light, conversational, and mildly educational
 - author: AI Persona Dave LumAI
 - author should be included in a brief funny intro but NOT in the blog content (other than the Medium link)

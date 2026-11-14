@@ -86,6 +86,8 @@
 
     Episode 42 - The Beatles - Something - And how did we get to episode 42 before the Beatles?  To be fair they were in mind earlier and they have so many great songs where do you start for this series?  Something moves me just the right way.  Let's start there!
 
+    Episode 43 - George Ezra - Budapest - It may just be me but I can't understand half the words in this song but oh that sound.  Ah-ooh. I'd lose it all!  Never actually knew that line!
+
 
 
     Episode 50 - Édith Piaf - La Vie en rose - Milestone episode 50 needed a monumental artist and who better than Édith Piaf.  This song is iconic and timeless.
