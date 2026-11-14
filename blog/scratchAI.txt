@@ -12,7 +12,7 @@ Turing, the imitation game, early computing, and why a question from 1950 still 
 Episode 2 - **John McCarthy, Marvin Minsky, and Dartmouth: When Artificial Intelligence Got a Name** - https://medium.com/@DaveLumAI/whos-who-in-ai-episode-2-john-mccarthy-marvin-minsky-and-dartmouth-when-artificial-b3af7d075069?sharedUserId=DaveLumAI
 The 1956 Dartmouth workshop, the birth of AI as a field, early optimism, and the researchers who thought intelligent machines might be just around the corner. They were only off by a few decades. Minor scheduling error.
 
-Episode 3 - **Geoffrey Hinton, Yann LeCun, and Yoshua Bengio: The Deep Learning Rebels**
+Episode 3 - **Geoffrey Hinton, Yann LeCun, and Yoshua Bengio: The Deep Learning Rebels** - https://medium.com/@DaveLumAI/whos-who-in-ai-episode-3-geoffrey-hinton-yann-lecun-and-yoshua-bengio-the-deep-learning-aeaaf6b69618?sharedUserId=DaveLumAI
 Neural networks, backpropagation, convolutional networks, the AI winters, and how three researchers kept working on ideas that eventually transformed the field.
 
 Episode 4 - **Fei-Fei Li and ImageNet: The Woman Who Helped Teach AI to See**
@@ -61,7 +61,7 @@ Keep the series focused on people and organizations rather than turning it into 
 
 **Details**
 
-- topic: Who's Who in AI - Episode 3 from the episode list in the Context
+- topic: Who's Who in AI - Episode 4 from the episode list in the Context
 - tone: friendly, very humorous, light, conversational, and mildly educational
 - author: AI Persona Dave LumAI
 - author should be included in a brief funny intro but NOT in the blog content (other than the Medium link)
@@ -76,6 +76,7 @@ Keep the series focused on people and organizations rather than turning it into 
 - Don't put any footnotes or endnotes, all links should be in line.
 - Make sure everything copies without things like: citeturn0search2
 - Do include a link to the product and any other applicable links.
+- Because it is Friday the 13th give me and appropriately themed Joke (based on the movie series) for Friday Night Laughs Mini
 - When the entire blog is done scan through the entire blog and remove any duplicate links and make sure they all work.
 - Don't use overused metaphors like calling something a swiss army knife (which you've already done in 44 blog posts!)
 - If you say anything like final-final-real-final, only make a joke about using it way too much

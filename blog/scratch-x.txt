@@ -9,11 +9,11 @@
         - Provide a single post that can be copied and pasted directly into X as follows:  
   
           - a very short version of the blog but not revealing the best parts (tell them to click the links below to learn more)       
-            https://blog.lumaiere.com/what-the-heck-is-a-neocloud-company-or-did-someone-just-give-the-cloud-a-10-billion-makeover/
+            https://blog.lumaiere.com/whos-who-in-ai-episode-4-fei-fei-li-and-imagenet-the-woman-who-helped-teach-ai-to-see/
             member link:
-            https://medium.com/@DaveLumAI/what-the-heck-is-a-neocloud-company-or-did-someone-just-give-the-cloud-a-10-billion-makeover-22889ad4a525
+            https://medium.com/@DaveLumAI/whos-who-in-ai-episode-4-fei-fei-li-and-imagenet-the-woman-who-helped-teach-ai-to-see-6a67813e7c7a
             friend link:
-            https://medium.com/@DaveLumAI/what-the-heck-is-a-neocloud-company-or-did-someone-just-give-the-cloud-a-10-billion-makeover-22889ad4a525?sk=fa941dac70fe2c1de86f34c35f6c33a3
+            https://medium.com/@DaveLumAI/whos-who-in-ai-episode-4-fei-fei-li-and-imagenet-the-woman-who-helped-teach-ai-to-see-6a67813e7c7a?sk=bd56d089cea0fae863ffc730a9333766
             
 
         - Also let the folks know they can see more art at: https://lumaiere.com 
