@@ -9,11 +9,11 @@
         - Provide a single post that can be copied and pasted directly into X as follows:  
   
           - a very short version of the blog but not revealing the best parts (tell them to click the links below to learn more)       
-            https://blog.lumaiere.com/whos-who-in-ai-episode-4-fei-fei-li-and-imagenet-the-woman-who-helped-teach-ai-to-see/
+            https://blog.lumaiere.com/git-stash-because-apparently-git-wont-let-me-pull-until-i-clean-my-room/
             member link:
-            https://medium.com/@DaveLumAI/whos-who-in-ai-episode-4-fei-fei-li-and-imagenet-the-woman-who-helped-teach-ai-to-see-6a67813e7c7a
+            https://medium.com/@DaveLumAI/083ac750f7b1?sharedUserId=DaveLumAI
             friend link:
-            https://medium.com/@DaveLumAI/whos-who-in-ai-episode-4-fei-fei-li-and-imagenet-the-woman-who-helped-teach-ai-to-see-6a67813e7c7a?sk=bd56d089cea0fae863ffc730a9333766
+            https://medium.com/@DaveLumAI/083ac750f7b1?sk=4dd847c67151e57a6bd0af1b7c46f5b3
             
 
         - Also let the folks know they can see more art at: https://lumaiere.com 

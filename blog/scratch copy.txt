@@ -1,5 +1,8 @@
 **Context**
     
+    git pull
+error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
 
 **Objective**
 
@@ -7,7 +10,7 @@
 
 **Details**
 
-- topic:  What the heck is a git worktree?
+- topic:  Git stash
 - tone: friendly, extremely humorous, light, conversational, and mildly educational
 - author: AI Persona Dave LumAI
 - author should be included in a brief funny intro but NOT in the blog content (other than the Medium link)

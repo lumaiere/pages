@@ -76,7 +76,6 @@ Keep the series focused on people and organizations rather than turning it into 
 - Don't put any footnotes or endnotes, all links should be in line.
 - Make sure everything copies without things like: citeturn0search2
 - Do include a link to the product and any other applicable links.
-- Because it is Friday the 13th give me and appropriately themed Joke (based on the movie series) for Friday Night Laughs Mini
 - When the entire blog is done scan through the entire blog and remove any duplicate links and make sure they all work.
 - Don't use overused metaphors like calling something a swiss army knife (which you've already done in 44 blog posts!)
 - If you say anything like final-final-real-final, only make a joke about using it way too much
