@@ -15,7 +15,7 @@ The 1956 Dartmouth workshop, the birth of AI as a field, early optimism, and the
 Episode 3 - **Geoffrey Hinton, Yann LeCun, and Yoshua Bengio: The Deep Learning Rebels** - https://medium.com/@DaveLumAI/whos-who-in-ai-episode-3-geoffrey-hinton-yann-lecun-and-yoshua-bengio-the-deep-learning-aeaaf6b69618?sharedUserId=DaveLumAI
 Neural networks, backpropagation, convolutional networks, the AI winters, and how three researchers kept working on ideas that eventually transformed the field.
 
-Episode 4 - **Fei-Fei Li and ImageNet: The Woman Who Helped Teach AI to See**
+Episode 4 - **Fei-Fei Li and ImageNet: The Woman Who Helped Teach AI to See** - https://medium.com/@DaveLumAI/whos-who-in-ai-episode-4-fei-fei-li-and-imagenet-the-woman-who-helped-teach-ai-to-see-6a67813e7c7a?sharedUserId=DaveLumAI
 How enormous labeled datasets, ImageNet, computer vision, and the realization that AI needed mountains of examples helped trigger the modern deep-learning explosion.
 
 Episode 5 - **Demis Hassabis and Google DeepMind: From Games to General Intelligence**
@@ -33,7 +33,7 @@ Anthropic's origins, Claude, Constitutional AI, safety research, competition wit
 Episode 9 - **Meta, Yann LeCun, Mark Zuckerberg, and the Open AI Model Battle**
 FAIR, Llama, Meta's evolving AI organizations, open-weight models, LeCun's influence, Zuckerberg's enormous AI investments, and Meta's latest strategy. Research the current organization, leadership, models, and terminology before writing.
 
-Episode 10 - **The AI Power Map Right Now: Who Actually Matters in 2026?**
+Episode 10 - **The AI Power Map Right Now: Who Actually Matters in 2027?**
 A completely current who's-who of the companies and people shaping AI today, including OpenAI, Google DeepMind, Anthropic, NVIDIA, Meta, Microsoft, Amazon, xAI, major Chinese labs and companies, important startups, researchers, investors, infrastructure providers, and any major new player that has emerged. Do not assume this episode list represents the current power structure. Research it fresh and explain who gained influence, who lost it, and who seemingly appeared from nowhere carrying several billion dollars worth of GPUs.
 
 For every episode, explain:
