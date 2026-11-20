@@ -9,11 +9,11 @@
         - Provide a single post that can be copied and pasted directly into X as follows:  
   
           - a very short version of the blog but not revealing the best parts (tell them to click the links below to learn more)       
-            https://blog.lumaiere.com/git-stash-because-apparently-git-wont-let-me-pull-until-i-clean-my-room/
+            https://blog.lumaiere.com/friday-night-laughs-bear-markets-my-portfolio-has-requested-witness-protection/
             member link:
-            https://medium.com/@DaveLumAI/083ac750f7b1?sharedUserId=DaveLumAI
+            https://medium.com/@DaveLumAI/friday-night-laughs-bear-markets-my-portfolio-has-requested-witness-protection-5d4a2fd0a98e
             friend link:
-            https://medium.com/@DaveLumAI/083ac750f7b1?sk=4dd847c67151e57a6bd0af1b7c46f5b3
+            https://medium.com/@DaveLumAI/friday-night-laughs-bear-markets-my-portfolio-has-requested-witness-protection-5d4a2fd0a98e?sk=3a6d2e968eda11c9c3a337268e9dc927
             
 
         - Also let the folks know they can see more art at: https://lumaiere.com 

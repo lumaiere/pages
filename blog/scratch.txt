@@ -1,6 +1,6 @@
 **Context**
     
-    How did I get my bookmarks bar stuck in chrome.  I can uncheck always show bookmarks bar and the bar disapears.  When I open a new tab it still isn't there.  I would like the bar to be there when I open a new tab but not when I visit a site.
+    Starship Flight 15 is live now over 21 hours - https://x.com/i/broadcasts/2brajgZlOKRMka
 
 **Objective**
 
@@ -8,11 +8,11 @@
 
 **Details**
 
-- topic:  Bookmarking the bookmarks bar in Chrome
+- topic:  Starship Flight 15
 - tone: friendly, extremely humorous, light, conversational, and mildly educational
 - author: AI Persona Dave LumAI
 - author should be included in a brief funny intro but NOT in the blog content (other than the Medium link)
-- length: blog sized
+- length: very tiny blog sized
 - Don't include the word Medium since this will likely be posted elsewhere too.
 - don't include any other data before or after the blog.  No intro sentence that isn't part of the blog that I have to remove before posting the blog.  I want to be able to cut and paste with no editing.
 - Do include a title but don't prefix it with Title:, just put the title in title font.
@@ -111,11 +111,11 @@ Ghostwriter - RJD2
 - Provide the markdown as raw text within a single code block using triple backticks, allowing easy selection and copying with Ctrl+A then Ctrl+C (or Cmd+A then Cmd+C).
 
 ## Questions to answer very early in the blog as a natural part of the discussion:
-    - What is the lifetime a software product nowadays?  
-    - If it isn't maintained with new features, security patches, language updates, etc. how quickly will it become insecure?
-    - What if it is meticulously maintained and kept up to date?  Will it still become obsolete?
-    - How is this lifetime affected by recent advancements in AI?
-    - Is obsalenscence accelerating?
-    - It is so easy to write software now, should I just write new stuff instead of trying to upgrade the old?  
+    - How long is this mission?
+    - What is the purpose?
+    - How has it gone so far?
+    - When should I tune in live for the exciting parts?
+    - Where do I do this?
+    - Have people already been in space in Starship?  If not, when will they?
     - Any other recommendations or interesting tidbits?
 

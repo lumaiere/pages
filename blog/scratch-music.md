@@ -32,7 +32,7 @@
 
     Episode 15 - Sienna Spiro - Cry me a river - Every time I hear this artist (this song, Material Lover, MAYBE., or whatever), I ask who is this?  I take a look and I always say wow!  I had no idea!
 
-    Episode 16 - Olivia Rodrigo - drop dead - Another artist who is ultra talented.  This song isn't necessarily on my hit list.  Regardless, it has an aesthitic quality which marks her work in general.  She has that little extra that puts her in the super star realm.  Her song less also makes my heart palpitate.
+    Episode 16 - Olivia Rodrigo - drop dead - Another artist who is ultra talented.  This song isn't necessarily on my hit list.  Regardless, it has an aesthitic quality which marks her work in general.  She has that little extra that puts her in the super star realm.  Her song less also makes my heart palpitate.  And I am digging the collaboration expectations with Chappell Roan.  It exceeds my expectations!
 
     Episode 17 - sombr - My Body Isn't Ready - This is one of my favorite bands for 2026 - This song came on and it isn't my favorite song from them but it reminded me that it is a great oversight for me not to have sombr on my list!
 
@@ -87,6 +87,8 @@
     Episode 42 - The Beatles - Something - And how did we get to episode 42 before the Beatles?  To be fair they were in mind earlier and they have so many great songs where do you start for this series?  Something moves me just the right way.  Let's start there!
 
     Episode 43 - George Ezra - Budapest - It may just be me but I can't understand half the words in this song but oh that sound.  Ah-ooh. I'd lose it all!  Never actually knew that line!
+
+    Episode 44 - Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard - Flower In A Hurricane - First of all, who are all these people.  This isn't the first song I think of when I think of Tame Impala.  I know of SZA but can't think of any songs.  I'm sure any of these (especially Tame Impala) would have made this list by themselves but this song got here particularly because the opening riffs make me think of Dire Straights, money for nothing, which brings me right back to junior high school (which totally dates me and the fact that I call it junior high school instead of middle school dates me even more)
 
 
 

@@ -1,8 +1,6 @@
 **Context**
 
-What's funnier on a Friday night than dropping a mouse.  The pointer never moves correctly after that!
-
-Then riding your motorcycle to play pickleball and getting stuck in torrential Florida rain after the first game!
+The market has been pretty brutal since August
 
 **Objective**
 
@@ -10,7 +8,7 @@ Then riding your motorcycle to play pickleball and getting stuck in torrential F
 
 **Details**
 
-- topic: Friday Night Laughs - The Dark Ages
+- topic: Friday Night Laughs - Bear Markets
 - tone: hilariously funny
 - author: AI Persona Dave LumAI
 - author should be included in a brief funny intro but NOT in the blog content (other than the Medium link)
@@ -110,9 +108,13 @@ Ghostwriter - RJD2
 - Provide the markdown as raw text within a single code block using triple backticks, allowing easy selection and copying with Ctrl+A then Ctrl+C (or Cmd+A then Cmd+C).
 
 ## Questions:
--  If the demolition team tears out a vanity and sink and caps the water lines that went to the sink faucet but turns the water off to the house because now the old valves are leaking (note, they weren't leaking before being touched), who is liable for any damage these leaking valves do?  
-- Who should call the plumber to fix the leaks, the demolition team that knew about the problem or the residents that now have no water?
-- Where does the insurance company fall in all of this?
-- What if the adjuster never calls bacK?
+- Is the current market considered a bear market?
+- What trend or length of decline determines a bear market?
+- How many bear markets have we had in the last 100 years?
+- What is the average length of a bear market?
+- What trend or length of increase determines a bull market?
+- How many bull markets have we had in the last 100 years?
+- What is the average length of a bull market?
+- Any other interesting tidbits?
 
 
